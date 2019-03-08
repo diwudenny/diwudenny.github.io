@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Dr. Di Wu's Homepage
 
-You can use the [editor on GitHub](https://github.com/diwuszu/diwuszu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dr. Di Wu received the B.S. degree in electromagnetic field and radio technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2009, the M.S. degree from the City University of Hong Kong, Hong Kong, in 2013 and the Ph.D. degree from The University of Hong Kong, Hong Kong, in 2018. In 2017, he was supported by the Pilot Scheme of HKU to work as an Honorary Research Associate with the University of Wisconsin-Madison, Madison, WI, USA. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From 2009 to 2010, he was an Antenna Engineer with BYD Company Limited. From 2010 to 2012, he was a Senior RF Engineer with MediaTek.Inc (MTK). Since April 2018, he has been with the Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong, where he is currently a Senior System RF Engineer. His current research interests include phased array system, phase shifter design, in-band full duplex system, mobile antennas, MIMO antennas, and wearable antennas.
 
-### Markdown
+### Education Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+01/2014-06/2018  The University of Hong Kong (HKU)
+                 PhD in Electrical and Electronic Engineering
+01/2014-06/2018  University of Wisconsin-Madison (UW-Madison) 
+                 Visiting PhD student in Electrical and Computer Engineering               
+09/2012-09/2013  City University of Hong Kong (CityU)
+                 MSc. in Electronic Engineering                          	                                                   
+09/2005-07/2009	 University of Electronic Science and Technology of China (UESTC)
+	               BSc. in Electromagnetic Field and Microwave Technology
 
 ```markdown
 Syntax highlighted code block
