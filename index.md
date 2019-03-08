@@ -7,7 +7,8 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-###Education Background:###
+##Education Background:<br />
+
 2014.1-2018.7: The University of Hong Kong (HKU), Hong Kong, China<br />PhD degree in Electrical and Electronic Engineering
 
 2017.4-2017.10: University of Wisconsin-Madison (UW-Madison), Madison, WI, USA<br />Visiting PhD in Electrical & Computer Engineering
