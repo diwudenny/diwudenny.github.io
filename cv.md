@@ -12,4 +12,3 @@ permalink: /Education Background/
 
 2005.9-2009.7: University of Electronic Science and Technology of China (UESTC), Chengdu, China<br />B.S. degree in electromagnetic field and microwave technology
 
-{% include embedpdf.html source="http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf" width=100 height=800 %}
