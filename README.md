@@ -25,7 +25,7 @@ phased array system, phase shifter design, in-band full duplex system, mobile an
 ##Journal Articles:
 ### Journal Papers
 
-[J8] **Zhidan Liu**, Shiqi Jiang, Pengfei Zhou, and Mo Li. "A Participatory Urban Traffic Monitoring System: The Power of Bus Riders", *IEEE Transactions on Intelligent Transportation Systems*, accepted to appear. (Preprint)
+[J8] **Di Wu**, Yuzhang Zang, Hung Luyen, Mingjian Li and Nader Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” *IEEE Antennas and Wireless Propagation Letters*, 2019. (Early Access)
 
 [J7] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing", *IEEE/ACM Transactions on Networking*, Vol. 24, Issue 4, Pages 1948 - 1960, August 2016. (PDF)
 
@@ -36,7 +36,7 @@ phased array system, phase shifter design, in-band full duplex system, mobile an
 [J4] **Zhidan Liu**, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2013. (PDF)
 
 
-[TITS] Di Wu, Y. Zang, H. Luyen, M. Li and N. Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” IEEE Antennas and Wireless Propagation Letters, 2019. (Early Access, Available:https://ieeexplore.ieee.org/abstract/document/8637754)
+[TITS] 
 [TON] Di Wu, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, “A Compact Slot MIMO Antenna for Smartphones with Metal Housing,” Journal of Electromagnetic Waves and Applications, vol. 32, no. 2, pp. 204-214, 2018.
 [TITS] Di Wu, and S. W. Cheung, “A Cavity-Backed Annular Slot Antenna with High Efficiency for Smartwatches with Metallic Housing,” IEEE Transactions on Antennas and Propagation, vol. 65, no. 7, pp. 3756-3761, July 2017.
 [J5] Q. L. Li, S. W. Cheung, Di Wu, and T. I. Yuk, “Microwave Lens Using Periodic Dielectric-Sheets for Antenna-Gain Enhancement,” IEEE Transactions on Antennas and Propagation, vol. 65, no. 4, pp. 2068-2073, April 2017.
