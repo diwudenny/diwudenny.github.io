@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: 中文简历
 permalink: /blog/
 ---
 
