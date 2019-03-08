@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 中文简历
-permalink: /blog/
+permalink: /中文简历/
 ---
 
 Here is the much awaited blog.

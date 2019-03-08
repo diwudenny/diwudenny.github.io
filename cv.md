@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education Background
-permalink: /cv/
+permalink: /Education Background/
 ---
 
 2014.1-2018.7: The University of Hong Kong (HKU), Hong Kong, China<br />PhD degree in Electrical and Electronic Engineering
