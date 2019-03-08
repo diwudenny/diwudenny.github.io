@@ -16,6 +16,3 @@ Rebel base <br />
 Address:
 Email: [diwu@szu.edu.cn]
 
-
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
