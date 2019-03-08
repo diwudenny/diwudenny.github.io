@@ -23,6 +23,19 @@ phased array system, phase shifter design, in-band full duplex system, mobile an
 
 ### Publications
 ##Journal Articles:
+### Journal Papers
+
+[TITS] **Zhidan Liu**, Shiqi Jiang, Pengfei Zhou, and Mo Li. "A Participatory Urban Traffic Monitoring System: The Power of Bus Riders", *IEEE Transactions on Intelligent Transportation Systems*, accepted to appear. (Preprint)
+
+[TON] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing", *IEEE/ACM Transactions on Networking*, Vol. 24, Issue 4, Pages 1948 - 1960, August 2016. (PDF)
+
+[TITS] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", *IEEE Transactions on Intelligent Transportation Systems*, Vol. 17, Issue 7, Pages 1880 - 1893, July 2016. (PDF)
+
+[IJDSN] Bo Zeng, Yabo Dong, **Zhidan Liu**, "A Negotiation-Based TDMA Scheduling with Consecutive Slots Assignment for Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2014. (PDF)
+
+[IJDSN] **Zhidan Liu**, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2013. (PDF)
+
+
 [TITS] Di Wu, Y. Zang, H. Luyen, M. Li and N. Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” IEEE Antennas and Wireless Propagation Letters, 2019. (Early Access, Available:https://ieeexplore.ieee.org/abstract/document/8637754)
 [TON] Di Wu, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, “A Compact Slot MIMO Antenna for Smartphones with Metal Housing,” Journal of Electromagnetic Waves and Applications, vol. 32, no. 2, pp. 204-214, 2018.
 [TITS] Di Wu, and S. W. Cheung, “A Cavity-Backed Annular Slot Antenna with High Efficiency for Smartwatches with Metallic Housing,” IEEE Transactions on Antennas and Propagation, vol. 65, no. 7, pp. 3756-3761, July 2017.
