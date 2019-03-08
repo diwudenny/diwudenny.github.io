@@ -23,9 +23,9 @@ phased array system, phase shifter design, in-band full duplex system, mobile an
 
 ### Publications
 ##Journal Articles:
-[J8] Di Wu, Y. Zang, H. Luyen, M. Li and N. Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” IEEE Antennas and Wireless Propagation Letters, 2019. (Early Access, Available:https://ieeexplore.ieee.org/abstract/document/8637754)
-[J7] Di Wu, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, “A Compact Slot MIMO Antenna for Smartphones with Metal Housing,” Journal of Electromagnetic Waves and Applications, vol. 32, no. 2, pp. 204-214, 2018.
-[J6] Di Wu, and S. W. Cheung, “A Cavity-Backed Annular Slot Antenna with High Efficiency for Smartwatches with Metallic Housing,” IEEE Transactions on Antennas and Propagation, vol. 65, no. 7, pp. 3756-3761, July 2017.
+[TITS] Di Wu, Y. Zang, H. Luyen, M. Li and N. Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” IEEE Antennas and Wireless Propagation Letters, 2019. (Early Access, Available:https://ieeexplore.ieee.org/abstract/document/8637754)
+[TON] Di Wu, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, “A Compact Slot MIMO Antenna for Smartphones with Metal Housing,” Journal of Electromagnetic Waves and Applications, vol. 32, no. 2, pp. 204-214, 2018.
+[TITS] Di Wu, and S. W. Cheung, “A Cavity-Backed Annular Slot Antenna with High Efficiency for Smartwatches with Metallic Housing,” IEEE Transactions on Antennas and Propagation, vol. 65, no. 7, pp. 3756-3761, July 2017.
 [J5] Q. L. Li, S. W. Cheung, Di Wu, and T. I. Yuk, “Microwave Lens Using Periodic Dielectric-Sheets for Antenna-Gain Enhancement,” IEEE Transactions on Antennas and Propagation, vol. 65, no. 4, pp. 2068-2073, April 2017.
 [J4] Di Wu, S. W. Cheung, Q. L. Li and T. I. Yuk, “Decoupling using diamond-shaped patterned ground resonator for small MIMO antennas,” IET Microwaves, Antennas & Propagation, vol. 11, no. 2, pp. 177-183, 2017.
 [J3] Di Wu, S. W. Cheung, and T. I. Yuk, “Compact 3D-Loop Antenna with Bandwidth Enhancement for WWAN/LTE Mobile-Phones Applications,” IET Microwaves, Antennas & Propagation, vol. 11, no. 2, pp. 240-246, 2017.
