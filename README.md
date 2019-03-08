@@ -25,15 +25,15 @@ phased array system, phase shifter design, in-band full duplex system, mobile an
 ##Journal Articles:
 ### Journal Papers
 
-[TITS] **Zhidan Liu**, Shiqi Jiang, Pengfei Zhou, and Mo Li. "A Participatory Urban Traffic Monitoring System: The Power of Bus Riders", *IEEE Transactions on Intelligent Transportation Systems*, accepted to appear. (Preprint)
+[J8] **Zhidan Liu**, Shiqi Jiang, Pengfei Zhou, and Mo Li. "A Participatory Urban Traffic Monitoring System: The Power of Bus Riders", *IEEE Transactions on Intelligent Transportation Systems*, accepted to appear. (Preprint)
 
-[TON] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing", *IEEE/ACM Transactions on Networking*, Vol. 24, Issue 4, Pages 1948 - 1960, August 2016. (PDF)
+[J7] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing", *IEEE/ACM Transactions on Networking*, Vol. 24, Issue 4, Pages 1948 - 1960, August 2016. (PDF)
 
-[TITS] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", *IEEE Transactions on Intelligent Transportation Systems*, Vol. 17, Issue 7, Pages 1880 - 1893, July 2016. (PDF)
+[J6] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, and Dongming Lu. "Mining Road Network Correlation for Traffic Estimation via Compressive Sensing", *IEEE Transactions on Intelligent Transportation Systems*, Vol. 17, Issue 7, Pages 1880 - 1893, July 2016. (PDF)
 
-[IJDSN] Bo Zeng, Yabo Dong, **Zhidan Liu**, "A Negotiation-Based TDMA Scheduling with Consecutive Slots Assignment for Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2014. (PDF)
+[J5] Bo Zeng, Yabo Dong, **Zhidan Liu**, "A Negotiation-Based TDMA Scheduling with Consecutive Slots Assignment for Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2014. (PDF)
 
-[IJDSN] **Zhidan Liu**, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2013. (PDF)
+[J4] **Zhidan Liu**, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2013. (PDF)
 
 
 [TITS] Di Wu, Y. Zang, H. Luyen, M. Li and N. Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” IEEE Antennas and Wireless Propagation Letters, 2019. (Early Access, Available:https://ieeexplore.ieee.org/abstract/document/8637754)
