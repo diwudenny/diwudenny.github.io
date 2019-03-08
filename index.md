@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Di Wu (吴迪）
+title: Dr. Di Wu
 permalink: /
 ---
 
@@ -13,8 +13,7 @@ From 2010 to 2012, he was a Senior RF Engineer with MediaTek.Inc (MTK). Since Ap
 ## Contact
 
 Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
+Address:
 Email: [diwu@szu.edu.cn]
 
 
