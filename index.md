@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Dr. Di Wu （吴迪）<br />Assistant Professor in Shenzhen University
-<br />
-<br />
+
 permalink: /
 ---
 
