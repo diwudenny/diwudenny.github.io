@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Di Wu
+title: Dr. Di Wu （吴迪）
 permalink: /
 ---
 
