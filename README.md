@@ -1,35 +1,33 @@
 ## Welcome to Dr. Di Wu's Homepage
 
-![](https://i.imgur.com/JwtlYHj.jpg) max_width="300px" align="right" %
+<img src = "https://i.loli.net/2018/04/24/5adf182dd449f.jpeg" align = "right" width = "300">
 
-Dr. Di Wu is now with Shenzhen University as an assitant professor.
+#Di Wu, Denny (吴迪）
+#Assitant Professor
+##College of Electronic Science and Technology
+##Shenzhen University
+***
+### Biography
+Dr. Di Wu received the B.S. degree in electromagnetic field and microwave technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2009, the M.S. degree from the City University of Hong Kong, Hong Kong, in 2013 and the Ph.D. degree from The University of Hong Kong, Hong Kong, in 2018. In 2017, he was supported by the Pilot Scheme of HKU to work as an Honorary Research Associate with the University of Wisconsin-Madison, Madison, WI, USA. 
 
-He received the B.S. degree in electromagnetic field and microwave technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2009, the M.S. degree from the City University of Hong Kong, Hong Kong, in 2013 and the Ph.D. degree from The University of Hong Kong, Hong Kong, in 2018. In 2017, he was supported by the Pilot Scheme of HKU to work as an Honorary Research Associate with the University of Wisconsin-Madison, Madison, WI, USA. 
-
-From 2010 to 2012, he was a Senior RF Engineer with MediaTek.Inc (MTK). From 2018 to 2019, he was with the Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong, as a Senior System RF Engineer, focusing on the research and development of low cost phased array system for the 5G base station application. His current research interests include phased array system, phase shifter design, in-band full duplex system, mobile antennas, MIMO antennas, and wearable antennas.
+From 2010 to 2012, he was a Senior RF Engineer with MediaTek.Inc (MTK). From 2018 to 2019, he was with the Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong, as a Senior System RF Engineer, focusing on the research and development of low cost phased array system for the 5G base station application. Since 2019, He joined Shenzhen University as an assitant professor. His current research interests include phased array system, phase shifter design, in-band full duplex system, mobile antennas, MIMO antennas, and wearable antennas.
 
 ### Researachc Interest
 phased array system, phase shifter design, in-band full duplex system, mobile antennas, MIMO antennas, and wearable antennas.
 
 ### Education Background
-01/2014-06/2018  The University of Hong Kong (HKU)
+01/2014-06/2018  PhD in Electrical and Electronic Engineering, The University of Hong Kong (HKU)<br />	
+	 
+01/2014-06/2018  Visiting PhD student in Electrical and Computer Engineering,  University of Wisconsin-Madison (UW-Madison)<br /> 
+      
+09/2012-09/2013  M. S.  in Electronic Engineering,  City University of Hong Kong (CityU)<br />  
+                  	                                                   
+09/2005-07/2009  B. S. in Electromagnetic Field and Microwave Technology,  University of Electronic Science and Technology of China (UESTC)<br />
 
-                 PhD in Electrical and Electronic Engineering
- 		 
-01/2014-06/2018  University of Wisconsin-Madison (UW-Madison) 
+### Employment
+01/2018-now Shenzhen University,  Assitant Professor<br /> 
 
-                 Visiting PhD student in Electrical and Computer Engineering
-        
-09/2012-09/2013  City University of Hong Kong (CityU)
-
-                 MSc. in Electronic Engineering   
-                       	                                                   
-09/2005-07/2009	 University of Electronic Science and Technology of China (UESTC)
-
-                 BSc. in Electromagnetic Field and Microwave Technology
-
-### Working Experience
-02/2018-01/2019 Hong Kong Applied Science and Technology Research Institute,  Senior System Design Engineer
+02/2018-01/2019 Hong Kong Applied Science and Technology Research Institute,  Senior System Design Engineer<br /> 
 
 07/2010-08/2012 MediaTek.Inc,  Senior RF Engineer
 
