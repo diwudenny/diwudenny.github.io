@@ -1,47 +1,24 @@
-# Site settings
-title: Henry Jekyll
+title: Researcher
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
 
-# Build settings
 markdown: kramdown
-permalink: pretty
+#ins_logo: "./bits-logo.png"
 
-favicon: "/assets/img/temp_chem.jpg"
+tracking_id: #
 
-port: 3000
-url: http://localhost:3000
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
-  sass_dir: assets/css
-  style: :nested
+    style: compressed
+    sass_dir: _sass
 
-# Add bibliography
-gems: ['jekyll/scholar']
-
-scholar:
-  style: assets/bib/_ieee-with-url.csl
-  locale: en
-
-  sort_by: none
-  order: ascending
-
-  group_by: none
-  group_order: ascending
-
-  source: assets/bib
-  bibliography: _mybib.bib
-  bibliography_template: "{{reference}}"
-
-  replace_strings: true
-  join_strings:    true
-
-  use_raw_bibtex_entry: false
-  bibtex_filters:
-  - superscript
-  - latex
-  - HTML
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
