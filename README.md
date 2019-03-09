@@ -1,8 +1,9 @@
-<img src = "https://i.loli.net/2018/04/24/5adf182dd449f.jpeg" align = "right" width = "300">
+<img src = "https://i.loli.net/2018/04/24/5adf182dd449f.jpeg" align = "right" width = "285">
+
 ## Di Wu, Denny (吴迪）
 ## Assitant Professor
-## College of Electronic Science and Technology
-## Shenzhen University
+### College of Electronic Science and Technology
+### Shenzhen University
 ***
 ### Email: diwu@szu.edu.cn
 ### Office: Room 999, College of Electronic Science and Technology, Southern Campus, Shenzhen University, Shenzhen, China
