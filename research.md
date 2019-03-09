@@ -1,8 +1,5 @@
 ---
-layout: page
 permalink: /Research/
-
-
 
 1. 5G Low-Cost Phased Array System Design for Base Station Application  
 
