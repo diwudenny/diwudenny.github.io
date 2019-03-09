@@ -1,5 +1,6 @@
 ---
-permalink: //
+title: 
+permalink: /Background/
 ---
 ### Education Background
 
