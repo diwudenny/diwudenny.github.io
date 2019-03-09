@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Di Wu （吴迪）<br />Assistant Professor in Shenzhen University
+title: Di Wu, Denny （吴迪）<br />
 
 permalink: /
 ---
