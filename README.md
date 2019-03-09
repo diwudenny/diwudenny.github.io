@@ -1,6 +1,6 @@
 ## Welcome to Dr. Di Wu's Homepage
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+![](https://i.imgur.com/JwtlYHj.jpg)
 
 Dr. Di Wu is now with Shenzhen University as an assitant professor.
 
