@@ -19,7 +19,7 @@ phased array system, phase shifter design, in-band full duplex system, mobile an
 ### Education Background
 01/2014-06/2018  PhD in Electrical and Electronic Engineering, The University of Hong Kong (**HKU**)<br />	
 	 
-01/2014-06/2018  Visiting PhD student in Electrical and Computer Engineering,  University of Wisconsin-Madison (**UW-Madison**)<br /> 
+04/2017-10/2017  Visiting PhD student in Electrical and Computer Engineering,  University of Wisconsin-Madison (**UW-Madison**)<br /> 
       
 09/2012-09/2013  M. S.  in Electronic Engineering,  City University of Hong Kong (**CityU**)<br />  
                   	                                                   
