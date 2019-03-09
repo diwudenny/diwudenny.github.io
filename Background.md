@@ -1,9 +1,8 @@
 ---
-layout: page
-title: 
 permalink: /Background/
 ---
-### Education Background
+
+Education Background
 
 01/2014-06/2018  PhD in Electrical and Electronic Engineering, The University of Hong Kong (**HKU**)<br />	
 	 
