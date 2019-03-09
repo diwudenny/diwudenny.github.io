@@ -2,10 +2,10 @@
 
 <img src = "https://i.loli.net/2018/04/24/5adf182dd449f.jpeg" align = "right" width = "300">
 
-#Di Wu, Denny (吴迪）
-#Assitant Professor
-##College of Electronic Science and Technology
-##Shenzhen University
+# Di Wu, Denny (吴迪）
+# Assitant Professor
+## College of Electronic Science and Technology
+## Shenzhen University
 ***
 ### Biography
 Dr. Di Wu received the B.S. degree in electromagnetic field and microwave technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2009, the M.S. degree from the City University of Hong Kong, Hong Kong, in 2013 and the Ph.D. degree from The University of Hong Kong, Hong Kong, in 2018. In 2017, he was supported by the Pilot Scheme of HKU to work as an Honorary Research Associate with the University of Wisconsin-Madison, Madison, WI, USA. 
