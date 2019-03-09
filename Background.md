@@ -14,7 +14,7 @@ permalink: /Background/
 ***
 **Employment**  
 
-01/2019-Now: Shenzhen University (**SZU**),  Assitant Professor<br /> 
+01/2019-Now: Shenzhen University (**SZU**),  Assistant Professor<br /> 
 
 02/2018-01/2019: Hong Kong Applied Science and Technology Research Institute (**ASTRI**),  Senior System Design Engineer<br /> 
 
