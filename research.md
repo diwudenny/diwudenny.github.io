@@ -1,7 +1,7 @@
 ---
 permalink: /Research/
 ---
-**Research areas:**
+**Research Areas:**
 
 1. 5G Low-Cost Phased Array System Design for Base Station Application  
 
@@ -16,3 +16,4 @@ permalink: /Research/
 ...
 
 ...
+**Research Team:**
