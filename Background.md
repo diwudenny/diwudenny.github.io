@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Background
-permalink: /Backgroun/
+title: 
+permalink: /Background/
 ---
 
 ### Education Background
