@@ -5,9 +5,7 @@ title: Dr. Di Wu （吴迪）<br />Assistant Professor in Shenzhen University
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
-
-##Education Background:<br />
+{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
 Dr. Di Wu received the B.S. degree in electromagnetic field and microwave technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2009, the M.S. degree from the City University of Hong Kong, Hong Kong, in 2013 and the Ph.D. degree from The University of Hong Kong, Hong Kong, in 2018. In 2017, he was supported by the Pilot Scheme of HKU to work as an Honorary Research Associate with the University of Wisconsin-Madison, Madison, WI, USA. 
 
