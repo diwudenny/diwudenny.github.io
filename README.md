@@ -1,31 +1,79 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+Dr. Jekyll: A scholarly website template.
+===================
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+This Jekyll template is meant for young (or established) scholars who would like to set up a website quickly and have it remain stable in the future.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+The template includes a built in bibliography using bibtex format that you can use to update your incredibly long publication list (knock on wood).
 
-# Instructions
+___
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Key Elements
+The template comes with the following features:
 
-See more info at https://academicpages.github.io/
+1. Easily adjust the title, url, and favicon in the `config.yml` file.
+2. Change the "About Me" section, the "Courses" list, and "Contact Me" info in the `_data/settings.yml` file.
+3. A bibliography can be built easily using a `.bib` file and `bibtex`.
+4. Easily create course pages and host files for your classes.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+---
+## Use
+To use this template, you need to build the site locally. The [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) plugin is not supported by Github.
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Here is a brief description of the necessary steps to customize your site:
 
-# Changelog -- bugfixes and enhancements
+1. Download the repository.
+2. Update the `config.yml` file with your preferred settings for title, url, etc.
+3. Update the `_data/settings.yml` file with your "About Me" blurb, your course list, and your contact information.
+4. For each course, you can either link to an external site or create a new page. To create a new course page, copy the `temp_course` folder and update the necessary information (add lecture slides, change the front matter in the `index.html` file, change folder names, etc.).
+5. Put any files (e.g. CV, pdf's of articles, etc.) in the `assets/files` folder.
+6. If you would like to change the bibliography style, add your custom `.csl` file to the `assets\bib` folder.
+7. Update the `_mybib.bib` file to include all of your amazing articles.
+8. Change the bio-photo (200 x 220) and the background image (2634 x 1756 ... although you don't necessarily need such a high resolution image).
+9. Update the colors in `assets/css/2-base/_vars.sass`. In particular, `accent-color` is the most used (if not the only...).
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+Once the site looks the way you want it, you need to push it to Github. To build the site locally and push the necessary files, do the following (note: this assumes you already have a Github pages site and associated local repository. If not, check out [this page for directions](https://pages.github.com/).):
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+0. Ensure that your customized DrJekyll folder is ***outside*** of the Github pages repository.
+1. Copy your local github repository to a safe place (because we are going to delete it).
+2. `cd` into your local repository and delete the files:
+
+  ```
+  git rm -rf .
+  ```
+3. `cd` into your DrJekyll folder and build it using Jekyll:
+
+  ```
+  jekyll build
+  ```
+4. Using either your GUI or the command line, copy the contents of the `DrJekyll/_site` folder into your local Github Pages repository.
+5. Create an empty file in your local Github Pages repository titled `.nojekyll`.
+6. Follow your usual Github push steps. For me I run the following:
+
+  ```
+  git status
+  git add --all
+  git commit -m "Publishing my sweet website."
+  git push origin master
+  ```
+
+Now, enjoy your handiwork!
+
+---
+
+## A Note On The bibliography
+The included sample `.bib` file includes the following bibliography entry:
+
+```
+@article{jekyll1885schizo,
+  title={Home Remedies for Multiple Personality Disorders},
+  author={Jekyll, Henry},
+  year={1885},
+  URL={https://alongsite.com/HOO.pdfLINK:arXiv;https://alongsite.com/BOO.pdfLINK:NBER;/assets/files/paper.pdfLINK:PDF}
+}
+```
+This looks like a typical entry, ***except the URL***. If your paper is hosted in several locations, you can link to all of those places using this line.
+
+The format is `urlLINK:linktext;urlLINK:linktext`, where you need to replace the link `url` and the `linktext` with whatever you would like. Each url needs to be seperated by a semicolon, `;`.
+
+## Tracking
+If you are a self obsessed sociopath or insecure graduate student, like myself, you can easily add analytics by creating a Google Tag Manager account and pasting the container code onto any of the `index.html` pages. Another nifty idea would to be to create an include for analytics, but since the site is quite simple, I'll leave this to you.
