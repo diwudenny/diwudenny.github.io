@@ -1,7 +1,4 @@
-## Welcome to Dr. Di Wu's Homepage
-
 <img src = "https://i.loli.net/2018/04/24/5adf182dd449f.jpeg" align = "right" width = "300">
-
 ## Di Wu, Denny (吴迪）
 ## Assitant Professor
 ## College of Electronic Science and Technology
