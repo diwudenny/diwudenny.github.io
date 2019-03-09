@@ -7,11 +7,11 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
-Ph.D., Assistant Professor<br />     
-IEEE Member<br />  
-College of Electronic Science and Technology, Shenzhen University, Shenzhen, China<br />  
-Address: Room 999, College of Electronic Science and Technology, Southern Campus, Shenzhen University, Shenzhen, China<br />   
-Tel: +86-755-12345678<br />  
+Ph.D., Assistant Professor     
+IEEE Member   
+College of Electronic Science and Technology, Shenzhen University, Shenzhen, China   
+Address: Room 999, College of Electronic Science and Technology, Southern Campus, Shenzhen University, Shenzhen, China    
+Tel: +86-755-12345678   
 Email: diwu@szu.edu.cn, diwu@eee.hku.hk<br />  
 
 **Biography:**
