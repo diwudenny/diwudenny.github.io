@@ -12,9 +12,7 @@ pubs:
       url:     "https://www.researchgate.net/profile/William_Cheung8/publication/273886512_A_Compact_and_Low-Profile_Loop_Antenna_With_Multiband_Operation_for_Ultra-Thin_Smartphones/links/556dc70b08aeccd7773ec23d/A-Compact-and-Low-Profile-Loop-Antenna-With-Multiband-Operation-for-Ultra-Thin-Smartphones.pdf"
       doi:     "10.1109/TAP.2015.2412962"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "https://www.researchgate.net/profile/William_Cheung8/publication/273886512_A_Compact_and_Low-Profile_Loop_Antenna_With_Multiband_Operation_for_Ultra-Thin_Smartphones/links/556dc70b08aeccd7773ec23d/A-Compact-and-Low-Profile-Loop-Antenna-With-Multiband-Operation-for-Ultra-Thin-Smartphones.pdf"
+     
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
