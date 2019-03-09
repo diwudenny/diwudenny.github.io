@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /Research/
 title: Research
 pubs:
 

@@ -1,18 +1,14 @@
 - title: "Research"
-  href: "/research/"
+  href: "/Research/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "Publications"
+  href: "/Publications/"
 
-- title: "Misc"
-  href: "/misc/"
+- title: "Activities"
+  href: "/Activities/"
 
-- title: "Submenu"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/misc/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/misc/item-2/"
+- title: "中文履历"
+  href: "/中文履历/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Contact"
+  href: "/Contact/"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /blog/
+permalink: /Contact/
 ---
 
 Here is the much awaited blog.
