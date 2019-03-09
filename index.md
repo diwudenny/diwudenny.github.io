@@ -11,7 +11,7 @@ Ph.D., Assistant Professor<br />
 Shenzhen University<br />  
 
 Tel: +86-755-12345678   
-Email: diwu@szu.edu.cn, diwu@eee.hku.hk   
+Email: diwu@szu.edu.cn, diwu@eee.hku.hk<br />    
 Address: Room 999, College of Electronic Science and Technology, Southern Campus, Shenzhen University, Shenzhen, China    
 
 **Biography:**
