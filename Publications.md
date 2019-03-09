@@ -1,8 +1,6 @@
 ---
-layout: page
 permalink: /Publications/
-title: Publications
-pubs:
+---
 
 ### Journal Papers
 
