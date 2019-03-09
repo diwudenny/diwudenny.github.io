@@ -2,7 +2,8 @@
 permalink: /Blog/
 ---
 
-**暂时木有**
+**“A man can be destroyed but not defeated”** 
+>>>>>>>>>>>>>>——**Ernest Hemingway** 
 
 
 
