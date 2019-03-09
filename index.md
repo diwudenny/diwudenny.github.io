@@ -7,12 +7,12 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
-Ph.D., Assistant Professor<br />   
-Shenzhen University<br />  
+**Ph.D., Assistant Professor**<br />   
+**Shenzhen University**<br />  
 
-Tel: +86-755-12345678   
-Email: diwu@szu.edu.cn, diwu@eee.hku.hk<br />    
-Address: Room 999, College of Electronic Science and Technology, Southern Campus, Shenzhen University, Shenzhen, China    
+**Tel**: +86-755-12345678   
+**Email**: diwu@szu.edu.cn, diwu@eee.hku.hk<br />    
+**Office**: Room 999, College of Electronic Science and Technology, Southern Campus, Shenzhen University, Shenzhen, China    
 
 **Biography:**
 Dr. Di Wu received the B.S. degree in electromagnetic field and microwave technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2009, the M.S. degree from the City University of Hong Kong, Hong Kong, in 2013 and the Ph.D. degree from The University of Hong Kong, Hong Kong, in 2018. In 2017, he was supported by the Pilot Scheme of HKU to work as an Honorary Research Associate with the University of Wisconsin-Madison, Madison, WI, USA. 

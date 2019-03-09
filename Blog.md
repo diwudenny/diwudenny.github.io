@@ -1,5 +1,5 @@
 ---
-permalink: /Contact/
+permalink: /Blog/
 ---
 
 **Email**: diwu@szu.edu.cn  
