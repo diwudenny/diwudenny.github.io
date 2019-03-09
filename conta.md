@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bloge
+title: Contact
 permalink: /blog/
 ---
 
