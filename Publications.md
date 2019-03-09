@@ -2,7 +2,7 @@
 permalink: /Publications/
 ---
 
-### Journal Papers
+**Journal Papers**
 
 [J8] **Di Wu**, Yuzhang Zang, Hung Luyen, Mingjian Li and Nader Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” *IEEE Antennas and Wireless Propagation Letters*, 2019. (Early Access)
 
