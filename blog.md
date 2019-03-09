@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /belog/
+title: Bloge
+permalink: /blog/
 ---
 
 Here is the much awaited blog.
