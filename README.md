@@ -4,6 +4,9 @@
 ## College of Electronic Science and Technology
 ## Shenzhen University
 ***
+### Email: diwu@szu.edu.cn
+### Office: Room 999, College of Electronic Science and Technology, Southern Campus, Shenzhen University, Shenzhen, China
+***
 ### Biography
 Dr. Di Wu received the B.S. degree in electromagnetic field and microwave technology from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2009, the M.S. degree from the City University of Hong Kong, Hong Kong, in 2013 and the Ph.D. degree from The University of Hong Kong, Hong Kong, in 2018. In 2017, he was supported by the Pilot Scheme of HKU to work as an Honorary Research Associate with the University of Wisconsin-Madison, Madison, WI, USA. 
 
