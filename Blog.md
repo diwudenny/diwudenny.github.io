@@ -2,9 +2,6 @@
 permalink: /Blog/
 ---
 
-**“A man can be destroyed but not defeated”** 
-——**Ernest Hemingway** 
-
 1. Post-doc/Research Assitant Recruitment 
 
 <ul class="listing">
