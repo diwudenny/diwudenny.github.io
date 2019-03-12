@@ -18,32 +18,3 @@ Dr. Di Wu received the B.Eng. degree in electromagnetic field and microwave tech
 
 From 2010 to 2012, he was with MediaTek.Inc (MTK) as a Senior RF Engineer. From  2018 to 2019, he was with the Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong, as a Senior System RF Engineer,  focusing on the R&D of the 5G low cost phased array system for base station application. Since Jan. 2019, he has been with the College of Electronic Science and Technology, Shenzhen University, Shenzhen, China, as an assistant professor. His current research interests include phased array system, phase shifter design, in-band full duplex antenna system, mobile antennas, MIMO antennas, and wearable antennas.
 
-import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
-public class ShowTimesServlet extends HttpServlet {
-	private static final long serialVersionUID = 1L;
-	protected void doGet(HttpServletRequest request,
-       HttpServletResponse response) throws ServletException, IOException {
-		ServletContext context = getServletContext();
-		Integer times = (Integer) context.getAttribute("times");
-		if (times == null) {
-			times = new Integer(1);
-		} else {
-			times = new Integer(times.intValue() + 1);
-		}
-		response.setContentType("text/html;charset=utf-8");
-     PrintWriter out= response.getWriter();
-     out.println("<html><head><title>");
-     out.println("页面访问统计");
-        out.println("</title></head><body>");
-        out.println("当前页面被访问了");
-        out.println("<font color=red size=20>"+times+"</font>次");
-        context.setAttribute("times",times);
-	}
-	protected void doPost(HttpServletRequest request,
-       HttpServletResponse response) throws ServletException, IOException {
-		this.doGet(request, response);
-	}
-}
- 
