@@ -3,10 +3,10 @@ layout: page
 title: Di Wu, Denny (吴迪）<br />
 permalink: /
 ---
-**Ph.D. HKU, M.S. CityU HK, B.Eng. UESTC**<br />
+**Ph.D. HKU, M.S. CityU(HK), B.Eng. UESTC**<br />
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
-**Ph.D., Assistant Professor**<br />   
+**Assistant Professor**<br />   
 **Shenzhen University**<br />  
 
 **Tel**: +86-755-12345678<br />  
