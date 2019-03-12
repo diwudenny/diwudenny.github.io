@@ -9,7 +9,7 @@ permalink: /Research/
 
 4. 5G Mobile Antenna Design  
 
-4. MIMO and Massive Antenna and Decoulpling Techniques
+4. MIMO Antennas and Decoulpling Techniques
 
 5. Wearable Antennas
 
