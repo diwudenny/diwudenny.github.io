@@ -9,7 +9,7 @@ permalink: /Background/
       
 09/2012-09/2013:  M.S.  in Electronic Engineering,  City University of Hong Kong (**CityU**), Supervisor: Prof. Xue Quan<br />  
                   	                                                   
-09/2005-07/2009:  B.S. in Electromagnetic Field and Microwave Technology,  University of Electronic Science and Technology of China (**UESTC**)<br />
+09/2005-07/2009:  B.Eng. in Electromagnetic Field and Microwave Technology,  University of Electronic Science and Technology of China (**UESTC**)<br />
 
 ***
 **Employment**  
