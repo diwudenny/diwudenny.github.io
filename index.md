@@ -26,8 +26,6 @@ ServletContextappliaton = this.getServletContext();
 
      //获取Context对象的count属性
 
-    
-
      /*
 
       *对count属性值进行判断，如果为空值，说明该网站是第一次被访问，count赋值为1
@@ -61,9 +59,5 @@ ServletContextappliaton = this.getServletContext();
      //保存访问次数
 
      appliaton.setAttribute("count", count) 
---------------------- 
-作者：大尾巴战狼 
-来源：CSDN 
-原文：https://blog.csdn.net/dawiebazhanlang/article/details/79669481 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
 
