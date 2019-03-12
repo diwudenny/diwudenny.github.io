@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Di Wu, Denny （吴迪）<br />
-
-**Ph.D. HKU, M.S. CityU HK, B.Eng. UESTC**
-
 permalink: /
 ---
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
+**Ph.D. HKU, M.S. CityU HK, B.Eng. UESTC**<br />
 **Ph.D., Assistant Professor**<br />   
 **Shenzhen University**<br />  
 
