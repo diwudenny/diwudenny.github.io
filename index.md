@@ -18,46 +18,32 @@ Dr. Di Wu received the B.Eng. degree in electromagnetic field and microwave tech
 
 From 2010 to 2012, he was with MediaTek.Inc (MTK) as a Senior RF Engineer. From  2018 to 2019, he was with the Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong, as a Senior System RF Engineer,  focusing on the R&D of the 5G low cost phased array system for base station application. Since Jan. 2019, he has been with the College of Electronic Science and Technology, Shenzhen University, Shenzhen, China, as an assistant professor. His current research interests include phased array system, phase shifter design, in-band full duplex antenna system, mobile antennas, MIMO antennas, and wearable antennas.
 
-ServletContextappliaton = this.getServletContext();
-
-     //获取当前web应用项目的context对象
-
-     Integer count = (Integer) appliaton.getAttribute("count");
-
-     //获取Context对象的count属性
-
-     /*
-
-      *对count属性值进行判断，如果为空值，说明该网站是第一次被访问，count赋值为1
-
-      * 如果不为空值，则进行累加操作
-
-      *
-
-      * */if(count == null) {
-
-       count = 1;
-
-    }else {
-
-       count++;
-
-     }
-
-      //设置编码格式为utf-8
-
-     response.setContentType("text/html;charset=utf-8");
-
-     //创建一个响应流
-
-     PrintWriter out = response.getWriter();
-
-     //输出访问次数
-
-     out.print("该网站共被访问了"+count+"次");
-
-     //保存访问次数
-
-     appliaton.setAttribute("count", count) 
-
-
+import java.io.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+public class ShowTimesServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	protected void doGet(HttpServletRequest request,
+       HttpServletResponse response) throws ServletException, IOException {
+		ServletContext context = getServletContext();
+		Integer times = (Integer) context.getAttribute("times");
+		if (times == null) {
+			times = new Integer(1);
+		} else {
+			times = new Integer(times.intValue() + 1);
+		}
+		response.setContentType("text/html;charset=utf-8");
+     PrintWriter out= response.getWriter();
+     out.println("<html><head><title>");
+     out.println("页面访问统计");
+        out.println("</title></head><body>");
+        out.println("当前页面被访问了");
+        out.println("<font color=red size=20>"+times+"</font>次");
+        context.setAttribute("times",times);
+	}
+	protected void doPost(HttpServletRequest request,
+       HttpServletResponse response) throws ServletException, IOException {
+		this.doGet(request, response);
+	}
+}
+ 
