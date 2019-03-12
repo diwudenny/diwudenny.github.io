@@ -18,6 +18,8 @@ permalink: /Publications/
 
 [J1] **Di Wu**, S. W. Cheung and T. I. Yuk, “A Compact and Low-Profile Loop Antenna With Multiband Operation for Ultra-Thin Smartphones,” *IEEE Transactions on Antennas and Propagation*, vol. 63, no. 6, pp. 2745-2750, June 2015.
 
+***
+
 ### Conference Papers
 
 [C16] S. W. Cheung, Di Wu, Chang Fei Zhou, and Min Li, “Using USB Connector to Generate 5th-Resonant Mode in Loop Antenna,” 2017 IEEE International Symposium on Antennas and Propagation (APSURSI), San Diego, California, July 9-14, 2017.
