@@ -22,7 +22,6 @@ Download [PDF version](http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf)
 
 {% include embedpdf.html source="http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf" width=100 height=800 %}
 
-https://drive.google.com/open?id=14Fj0qxHL6t2tWIq-By9eIkUviwfp-PBP
 ***
 
 ### Conference Papers
