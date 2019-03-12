@@ -17,9 +17,9 @@ permalink: /Publications/
 [J2] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Optically transparent dualband MIMO antenna using micro-metal mesh conductive film for WLAN system,” *IEEE Antennas and Wireless Propagation Letters*, vol. 16, pp. 920-923, 2017.
 
 [J1] **Di Wu**, S. W. Cheung and T. I. Yuk, “A Compact and Low-Profile Loop Antenna With Multiband Operation for Ultra-Thin Smartphones,” *IEEE Transactions on Antennas and Propagation*, vol. 63, no. 6, pp. 2745-2750, June 2015. 
-[PDF version](https://github.com/diwuszu/diwuszu.github.io/blob/master/papers/2015-TAP-Loop%20Antenna.pdf)
+[PDF version](https://drive.google.com/open?id=14Fj0qxHL6t2tWIq-By9eIkUviwfp-PBP)
 
-{% include embedpdf.html source="https://github.com/diwuszu/diwuszu.github.io/blob/master/papers/2015-TAP-Loop%20Antenna.pdf}
+{% include embedpdf.html source="https://drive.google.com/open?id=14Fj0qxHL6t2tWIq-By9eIkUviwfp-PBP}
 ***
 
 ### Conference Papers
