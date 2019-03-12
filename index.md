@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Di Wu, Denny （吴迪）<br />
-**Ph.D. HKU, M.S. CityU HK, B.Eng. UESTC**
 
+**Ph.D. HKU, M.S. CityU HK, B.Eng. UESTC**
 
 permalink: /
 ---
