@@ -7,11 +7,11 @@ permalink: /Research/
 
 3. In-Band Full-Duplex Antenna System Design  
 
-4. 5G Mobile Antenna Design  
+4. 5G Mobile Antenna, and Wearable Antennas Design  
 
 4. MIMO Antennas and Decoulpling Techniques
 
-5. Wearable Antennas
+5. Millimeter Wave Antenna 
 
 ...      
 
