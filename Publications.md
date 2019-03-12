@@ -6,17 +6,17 @@ permalink: /Publications/
 
 [J8] **Di Wu**, Yuzhang Zang, Hung Luyen, Mingjian Li and Nader Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” *IEEE Antennas and Wireless Propagation Letters*, 2019. (Early Access)
 
-[J7] **Di Wu**, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, "A Compact Slot MIMO Antenna for Smartphones with Metal Housing, " *Journal of Electromagnetic Waves and Applications*, vol. 32, no. 2, pp. 204-214, 2018.
+[J7] **Di Wu**, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, "A Compact Slot MIMO Antenna for Smartphones with Metal Housing, " *Journal of Electromagnetic Waves and Applications*, vol. 32, no. 2, pp. 204-214, 2018. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2018-JEWA-Slot%20MIMO-Di%20WU.pdf)
 
-[J5] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Microwave Lens Using Periodic Dielectric-Sheets for Antenna-Gain Enhancement,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 4, pp. 2068-2073, April 2017.
+[J5] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Microwave Lens Using Periodic Dielectric-Sheets for Antenna-Gain Enhancement,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 4, pp. 2068-2073, April 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-TAP-Lens%20Antenna.pdf)
 
-[J4] **Di Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Decoupling using diamond-shaped patterned ground resonator for small MIMO antennas,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 177-183, 2017.
+[J4] **Di Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Decoupling using diamond-shaped patterned ground resonator for small MIMO antennas,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 177-183, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-MAP-Decoupling%20-Di%20Wu.pdf)
 
-[J3] **Di Wu**, S. W. Cheung, and T. I. Yuk, “Compact 3D-Loop Antenna with Bandwidth Enhancement for WWAN/LTE Mobile-Phones Applications,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 240-246, 2017.
+[J3] **Di Wu**, S. W. Cheung, and T. I. Yuk, “Compact 3D-Loop Antenna with Bandwidth Enhancement for WWAN/LTE Mobile-Phones Applications,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 240-246, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-MAP-Wideband%20Loop%20antnna-Di%20Wu.pdf)
 
-[J2] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Optically transparent dualband MIMO antenna using micro-metal mesh conductive film for WLAN system,” *IEEE Antennas and Wireless Propagation Letters*, vol. 16, pp. 920-923, 2017.
+[J2] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Optically transparent dualband MIMO antenna using micro-metal mesh conductive film for WLAN system,” *IEEE Antennas and Wireless Propagation Letters*, vol. 16, pp. 920-923, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-AWPL-Transparent%20MIMO%20Antenna.pdf)
 
-[J1] **Di Wu**, S. W. Cheung and T. I. Yuk, “A Compact and Low-Profile Loop Antenna With Multiband Operation for Ultra-Thin Smartphones,” *IEEE Transactions on Antennas and Propagation*, vol. 63, no. 6, pp. 2745-2750, June 2015. [Download PDF version](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2015-TAP-Loop%20Antenna.pdf). 
+[J1] **Di Wu**, S. W. Cheung and T. I. Yuk, “A Compact and Low-Profile Loop Antenna With Multiband Operation for Ultra-Thin Smartphones,” *IEEE Transactions on Antennas and Propagation*, vol. 63, no. 6, pp. 2745-2750, June 2015. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2015-TAP-Loop%20Antenna.pdf)
 
 
 ***
