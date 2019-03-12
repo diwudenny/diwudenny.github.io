@@ -21,36 +21,36 @@ permalink: /Publications/
 
 ***
 
-### Conference Papers
+**Conference Papers**
 
-[C16] S. W. Cheung, Di Wu, Chang Fei Zhou, and Min Li, “Using USB Connector to Generate 5th-Resonant Mode in Loop Antenna,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
+[C16] S. W. Cheung, **Di Wu**, Chang Fei Zhou, and Min Li, “Using USB Connector to Generate 5th-Resonant Mode in Loop Antenna,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C15] Xiaoxue Hua, Di Wu, S. W. Cheung, Qinlong Li, “A Planar 8-Port MIMO Antenna for 2.4-GHz WLAN Applications,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
+[C15] Xiaoxue Hua, **Di Wu**, S. W. Cheung, Qinlong Li, “A Planar 8-Port MIMO Antenna for 2.4-GHz WLAN Applications,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C14] S. W. Cheung, Qinlong Li, Di Wu, Changfei Zhou, Bo Wang, “Defected Ground Structure with Two Resonances for Decoupling of Dual-band MIMO Antenna,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
+[C14] S. W. Cheung, Qinlong Li, **Di Wu**, Changfei Zhou, Bo Wang, “Defected Ground Structure with Two Resonances for Decoupling of Dual-band MIMO Antenna,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C13] S. W. Cheung, Bo Wang, Di Wu, Q.L. Li, C.F. Zhou, “A Broadband Dual-Circular Polarization Patch Antenna Using Quadruple L-probe Feed,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
+[C13] S. W. Cheung, Bo Wang, **Di Wu**, Q.L. Li, C.F. Zhou, “A Broadband Dual-Circular Polarization Patch Antenna Using Quadruple L-probe Feed,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C12] S. W. Cheung, Changfei Zhou, Di Wu, Qinlong li, Min Li, “A Wideband Circularly Polarized Slot-Antenna Array,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
+[C12] S. W. Cheung, Changfei Zhou, **Di Wu**, Qinlong li, Min Li, “A Wideband Circularly Polarized Slot-Antenna Array,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C11] Changfei Zhou, S. W. Cheung, Qinlong li, Di Wu, Bo Wang, “A Metasurfaced Circularly Polarized Antenna,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
+[C11] Changfei Zhou, S. W. Cheung, Qinlong li, **Di Wu**, Bo Wang, “A Metasurfaced Circularly Polarized Antenna,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C10] Min Li, S. W. Cheung, Changfei Zhou, Qinlong Li, Di Wu, “A Compact Monopole Antenna for Smartphones,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
+[C10] Min Li, S. W. Cheung, Changfei Zhou, Qinlong Li, **Di Wu**, “A Compact Monopole Antenna for Smartphones,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C9] Di. Wu, S. W. Cheung, Q. L. Li and T. I. Yuk, “Slot antenna for all-metal smartwatch applications,” *2016 10th European Conference on Antennas and Propagation (EuCAP)*, Davos, Switzerland, April 2016.
+[C9] **Di. Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Slot antenna for all-metal smartwatch applications,” *2016 10th European Conference on Antennas and Propagation (EuCAP)*, Davos, Switzerland, April 2016.
 
-[C8] S. W. Cheung, Q. L. Li, Di Wu and T. I. Yuk, “Microwave lens using multi-layer substrates for antenna gain enhancement,” *2016 10th European Conference on Antennas and Propagation (EuCAP)*, Davos, Switzerland, April 2016.
+[C8] S. W. Cheung, Q. L. Li, **Di Wu** and T. I. Yuk, “Microwave lens using multi-layer substrates for antenna gain enhancement,” *2016 10th European Conference on Antennas and Propagation (EuCAP)*, Davos, Switzerland, April 2016.
 
-[C7] Di Wu, S. W. Cheung and T. I. Yuk, “A compact loop antenna with seven resonant modes for smartphones,” *2015 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)*, Turin, Italy, 2015.
+[C7] **Di Wu**, S. W. Cheung and T. I. Yuk, “A compact loop antenna with seven resonant modes for smartphones,” *2015 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)*, Turin, Italy, 2015.
 
-[C6] Di Wu, S. W. Cheung and T. I. Yuk, “A folded loop antenna with four resonant modes,” *2015 9th European Conference on Antennas and Propagation (EuCAP)*, Lisbon, Portugal, 2015.
+[C6] **Di Wu**, S. W. Cheung and T. I. Yuk, “A folded loop antenna with four resonant modes,” *2015 9th European Conference on Antennas and Propagation (EuCAP)*, Lisbon, Portugal, 2015.
 
-[C5] S. W. Cheung, Di Wu, L. Liu and T. I. Yuk, “Isolation improvement using CMRC for MIMO antennas,” *2015 9th European Conference on Antennas and Propagation (EuCAP)*, Lisbon, Portugal, 2015.
+[C5] S. W. Cheung, **Di Wu**, L. Liu and T. I. Yuk, “Isolation improvement using CMRC for MIMO antennas,” *2015 9th European Conference on Antennas and Propagation (EuCAP)*, Lisbon, Portugal, 2015.
 
-[C4] Di Wu, S. W. Cheung, T. I. Yuk, and L. Liu, “Design of a printed multiband MIMO antenna,” *2013 7th European Conference on Antennas and Propagation (EuCAP)*, Gothenburg, Sweden, 2013.
+[C4] **Di Wu**, S. W. Cheung, T. I. Yuk, and L. Liu, “Design of a printed multiband MIMO antenna,” *2013 7th European Conference on Antennas and Propagation (EuCAP)*, Gothenburg, Sweden, 2013.
 
-[C3] Di Wu, S. W. Cheung, T. I. Yuk and X. L. Sun, “A MIMO antenna for mobile applications,” *2013 International Workshop on Antenna Technology (iWAT)*, Karlsruhe, Germany, 2013.
+[C3] **Di Wu**, S. W. Cheung, T. I. Yuk and X. L. Sun, “A MIMO antenna for mobile applications,” *2013 International Workshop on Antenna Technology (iWAT)*, Karlsruhe, Germany, 2013.
 
-[C2] Di Wu, S. W. Cheung, T. I. Yuk and X. L. Sun, “A planar MIMO antenna for mobile phones,” *PIERS Proceedings*, Taipei, 2013.
+[C2] **Di Wu**, S. W. Cheung, T. I. Yuk and X. L. Sun, “A planar MIMO antenna for mobile phones,” *PIERS Proceedings*, Taipei, 2013.
 
-[C1] L. Liu, S. W. Cheung, T. I. Yuk and Di Wu, “A compact ultrawideband MIMO antenna,” *2013 7th European Conference on Antennas and Propagation (EuCAP)*, Gothenburg, Sweden, 2013.
+[C1] L. Liu, S. W. Cheung, T. I. Yuk and **Di Wu**, “A compact ultrawideband MIMO antenna,” *2013 7th European Conference on Antennas and Propagation (EuCAP)*, Gothenburg, Sweden, 2013.
