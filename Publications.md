@@ -1,5 +1,5 @@
 ---
-permalink: /Publications/
+permalink: /Publications/<br /> 
 ---
 
 (Last updated: March 13th, 2019)
