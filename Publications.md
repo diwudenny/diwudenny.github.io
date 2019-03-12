@@ -19,7 +19,6 @@ permalink: /Publications/
 [J1] **Di Wu**, S. W. Cheung and T. I. Yuk, “A Compact and Low-Profile Loop Antenna With Multiband Operation for Ultra-Thin Smartphones,” *IEEE Transactions on Antennas and Propagation*, vol. 63, no. 6, pp. 2745-2750, June 2015. 
 [PDF version](https://drive.google.com/open?id=14Fj0qxHL6t2tWIq-By9eIkUviwfp-PBP)
 
-{% include embedpdf.html source="https://drive.google.com/open?id=14Fj0qxHL6t2tWIq-By9eIkUviwfp-PBP}
 ***
 
 ### Conference Papers
