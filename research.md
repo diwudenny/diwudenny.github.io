@@ -15,12 +15,4 @@ permalink: /Research/
 
 ...      
 
-**Research Projects**<br /> 
-under construction
-
-**Research Team:**<br /> 
-under construction
-
-**Laboratory Facilities**<br /> 
-under construction
 
