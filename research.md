@@ -5,11 +5,11 @@ permalink: /Research/
 
 1. 5G Phased Array System Design for Base Station Application  
 
-3. In-Band Full-Duplex System 
+3. In-Band Full-Duplex Antenna System 
 
-4. 5G Mobile Antenna, and Wearable Antennas Design  
+4. 5G Mobile Antenna, and Wearable Antenna
 
-4. MIMO Antennas and Decoupling Techniques
+4. MIMO Antenna and Decoupling Techniques
 
 5. Millimeter Wave Antenna 
 
