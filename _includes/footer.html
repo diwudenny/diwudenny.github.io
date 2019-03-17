@@ -1,5 +1,5 @@
 <footer class="site-footer">
-    {{ Denny Wu's Homepage }}<br />
+    {{ site.description }}<br />
 
     &#169 Denny WU 2019</a>
     {% if site.sourcecode %}
@@ -7,7 +7,8 @@
     {% endif %}
     {% if site.analytics.provider and page.analytics != false %}
      :: Analytics by {{ site.analytics.provider }}
-    {% endif %}
+    {% endif %}<br />
+	
 	<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
