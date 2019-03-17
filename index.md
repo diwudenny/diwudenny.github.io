@@ -13,7 +13,7 @@ permalink: /
 
 **Email**: diwu@szu.edu.cn, diwu@eee.hku.hk<br /> 
    
-**Office**: Room 1013, 10th Floor, College of Electronic Science and Technology Building, South Campus, Shenzhen University, Shenzhen,China<br />     
+**Office**: Room 1013, 10th Floor, College of Electronic Science and Technology Building, South Campus, Shenzhen University, Shenzhen, 518060, China<br />     
 <br /> 
 **Biography:**
 <div style="text-align:justify;">
