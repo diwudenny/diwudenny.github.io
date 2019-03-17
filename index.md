@@ -26,12 +26,5 @@ From 2010 to 2012, he was with MediaTek.Inc (MTK) as a Senior RF Engineer. From 
 
 
 
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
-
-<span id="https://diwuszu.github.io/">
-本站总访问量<span id="https://diwuszu.github.io/"></span>次
-</span>
-
 
 
