@@ -10,7 +10,9 @@ permalink: /
 **Shenzhen University**<br />  
 
 **Tel**: +86-13823579832<br /> 
-**Email**: diwu@szu.edu.cn, diwu@eee.hku.hk<br />    
+
+**Email**: diwu@szu.edu.cn, diwu@eee.hku.hk<br /> 
+   
 **Office**: Room 1013, College of Electronic Science and Technology, South Campus, Shenzhen University, Shenzhen,518060,China    
 
 **Biography:**
