@@ -20,3 +20,17 @@ Dr. Di Wu received the B.Eng. degree in electromagnetic field and microwave tech
 
 From 2010 to 2012, he was with MediaTek.Inc (MTK) as a Senior RF Engineer. From  2018 to 2019, he was with the Hong Kong Applied Science and Technology Research Institute (ASTRI), Hong Kong, as a Senior System RF Engineer,  focusing on the R&D of the 5G low cost phased array system for base station application. Since January 2019, he has been with the College of Electronic Science and Technology, Shenzhen University, Shenzhen, China, as an assistant professor. His current research interests include phased array system, phase shifter, in-band full duplex system, mobile antennas, wearable antennas, MIMO antennas, and millimeter wave antenna.
 
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+
+
+<span id="busuanzi_container_site_pv">
+    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
+
+
+<span id="busuanzi_container_site_uv">
+  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+</span>
+
+
