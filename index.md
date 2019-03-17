@@ -9,7 +9,7 @@ permalink: /
 **Assistant Professor**<br />   
 **Shenzhen University**<br />  
 
-**Tel**: +86-13823579832 (Mainland); +852-68568676 (Hong Kong)<br /> 
+**Tel**: +86-13823579832 (Mainland)<br /> 
 **Email**: diwu@szu.edu.cn, diwu@eee.hku.hk<br />    
 **Office**: Room 1013, College of Electronic Science and Technology, South Campus, Shenzhen University, Shenzhen,518060,China    
 
