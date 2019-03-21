@@ -8,6 +8,8 @@ permalink: /Publications/
 
 [J7] **Di Wu**, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, "A Compact Slot MIMO Antenna for Smartphones with Metal Housing, " *Journal of Electromagnetic Waves and Applications*, vol. 32, no. 2, pp. 204-214, 2018. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2018-JEWA-Slot%20MIMO-Di%20WU.pdf)
 
+[J6] **Di Wu**, and S. W. Cheung, “A Cavity-Backed Annular Slot Antenna with High Efficiency for Smartwatches with Metallic Housing,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 7, pp. 3756-3761, July 2017.[Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-TAP-Smartwatch%20Antenna-Di%20WU.pdf)
+
 [J5] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Microwave Lens Using Periodic Dielectric-Sheets for Antenna-Gain Enhancement,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 4, pp. 2068-2073, April 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-TAP-Lens%20Antenna.pdf)
 
 [J4] **Di Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Decoupling using diamond-shaped patterned ground resonator for small MIMO antennas,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 177-183, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-MAP-Decoupling%20-Di%20Wu.pdf)
