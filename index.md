@@ -3,7 +3,7 @@ layout: page
 title: Di Wu, Denny (吴迪)<br />
 permalink: /
 ---
-*Ph.D. HKU, M.S. CityU(HK), B.Eng. UESTC*<br />
+*B.Eng. UESTC, M.S. CityU(HK), Ph.D. HKU*<br />
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
 **Assistant Professor**<br />   
