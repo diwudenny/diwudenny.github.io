@@ -4,7 +4,7 @@ permalink: /Publications/
 
 **Journal Papers**
 
-[J8] **Di Wu**, Yuzhang Zang, Hung Luyen, Mingjian Li and Nader Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 4, pp. 2019. 
+[J8] **Di Wu**, Yuzhang Zang, Hung Luyen, Mingjian Li and Nader Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 4, pp. 611-615, 2019. 
 
 [J7] **Di Wu**, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, "A Compact Slot MIMO Antenna for Smartphones with Metal Housing, " *Journal of Electromagnetic Waves and Applications*, vol. 32, no. 2, pp. 204-214, 2018. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2018-JEWA-Slot%20MIMO-Di%20WU.pdf)
 
