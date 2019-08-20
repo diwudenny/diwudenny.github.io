@@ -1,5 +1,5 @@
 ---
-permalink: /Blog/
+permalink: /Openings/
 ---
 
 
