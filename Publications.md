@@ -4,6 +4,10 @@ permalink: /Publications/
 
 **Journal Papers**
 
+[J13] Min Li, **Di Wu**, Bing Xiao, Kwan Lawrence Yeung, and Lijun Jiang, “A Novel Calculation Method to Design Parasitic Decoupling Technique for Two Antennas,” *IEEE Access*, 2020. 
+
+[J12] Yu-Xiang Sun, **Di Wu**, Xiao Sheng Fang, and Nan Yang, “Compact Quarter-Mode Substrate-Integrated Waveguide Dual-Frequency Millimeter-Wave Antenna Array for 5G Applications,” *IEEE Antennas and Wireless Propagation Letters*, 2020. 
+
 [J11] **Di Wu**, Yu-Xiang Sun, Bo Wang, and Ruina Lian, “A Compact, Monostatic, Co-Circularly Polarized Simultaneous Transmit And Receive (STAR) Antenna With High Isolation,” *IEEE Antennas and Wireless Propagation Letters*, 2020. 
 
 [J10] Bing Xiao, Hang Wong, **Di Wu**, and Kwan L. Yeung, “Metal-frame Antenna for Big-screen Smartphones Using Characteristic Mode Analysis,” *IEEE Access*, vol. 7, no. , pp.122224-122231, 2019. [Download PDF ](https://github.com/diwudenny/diwudenny.github.io/raw/master/papers/2019_Xiao_Access.pdf)
