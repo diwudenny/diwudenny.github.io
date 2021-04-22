@@ -8,7 +8,7 @@ permalink: /Publications/
 
 [J12] Yu-Xiang Sun, **Di Wu**, Xiao Sheng Fang, and Nan Yang, “Compact Quarter-Mode Substrate-Integrated Waveguide Dual-Frequency Millimeter-Wave Antenna Array for 5G Applications,” *IEEE Antennas and Wireless Propagation Letters*, 2020. 
 
-[J11] **Di Wu**, Yu-Xiang Sun, Bo Wang, and Ruina Lian, “A Compact, Monostatic, Co-Circularly Polarized Simultaneous Transmit And Receive (STAR) Antenna With High Isolation,” *IEEE Antennas and Wireless Propagation Letters*, 2020. 
+[J11] **Di Wu**, Yu-Xiang Sun, Bo Wang, and Ruina Lian, “A Compact, Monostatic, Co-Circularly Polarized Simultaneous Transmit And Receive (STAR) Antenna With High Isolation,” *IEEE Antennas and Wireless Propagation Letters*, vol. 19, no. 7, pp. 1127-1131, July 2020. 
 
 [J10] Bing Xiao, Hang Wong, **Di Wu**, and Kwan Lawrence Yeung, “Metal-frame Antenna for Big-screen Smartphones Using Characteristic Mode Analysis,” *IEEE Access*, vol. 7, no. , pp.122224-122231, 2019. 
 
