@@ -4,6 +4,8 @@ permalink: /Publications/
 
 **Journal Papers**
 
+[J14] B. Xiao, H. Wong, D. Wu and K. L. Yeung, “Design of Small Multiband Full-Screen Smartwatch Antenna for IoT Applications,” *IEEE Internet of Things Journal*, vol. 8, no. 24, pp. 17724-17733, 15 Dec.15, 2021.
+
 [J13] Min Li, **Di Wu**, Bing Xiao, Kwan Lawrence Yeung, and Lijun Jiang, “A Novel Calculation Method to Design Parasitic Decoupling Technique for Two Antennas,” *IEEE Access*, vol. 8, pp. 116041-116051, 2020. 
 
 [J12] Yu-Xiang Sun, **Di Wu**, Xiao Sheng Fang, and Nan Yang, “Compact Quarter-Mode Substrate-Integrated Waveguide Dual-Frequency Millimeter-Wave Antenna Array for 5G Applications,” *IEEE Antennas and Wireless Propagation Letters*, vol. 19, no. 8, pp. 1405-1409, Aug. 2020. 
