@@ -1,5 +1,5 @@
 ---
-permalink: /Group/
+permalink: /Openings/
 ---
 
 
