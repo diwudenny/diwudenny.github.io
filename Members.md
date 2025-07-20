@@ -10,7 +10,7 @@ Graduated Postgraduate Students:
    
 3. Zhang Zheng (章铮), Class of 2021), employed by XKL （新凯来，深圳）
    
-4. Zhang Xiaochong (张晓冲), Class of 2022,  employed by Xiaomi （小米科技，北京）
+4. Zhang Xiaochong (张晓冲), Class of 2022,  employed by Xiaomi （小米，北京）
    
 5. Li Yaxin (李亚鑫), Class of 2022,  employed by APSAT （亚太星通，深圳）
     
