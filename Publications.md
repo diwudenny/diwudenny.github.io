@@ -4,9 +4,9 @@ permalink: /Publications/
 
 **Journal Papers** *Corresponding Author
 
-[J27] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893. 
+[J27] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893, 2025.
 
-[J26] X. Chen, L. Guo, **Di Wu** and Y. -X. Sun, "Bidirectional Shared Aperture Large Frequency Ratio Antenna Array Based on Continuous Metallic Grid," *IEEE Antennas and Wireless Propagation Letters*, doi: 10.1109/LAWP.2025.3568874.
+[J26] X. Chen, L. Guo, **Di Wu** and Y. -X. Sun, "Bidirectional Shared Aperture Large Frequency Ratio Antenna Array Based on Continuous Metallic Grid," *IEEE Antennas and Wireless Propagation Letters*, doi: 10.1109/LAWP.2025.3568874, 2025.
 
 [J25] M. Li, Y. He, C. Zhou, Y. Zhang and **Di Wu**, "Design of Decoupling and Pattern Shaping Surface for MIMO Antennas Using the Multiport Optimization Method," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 5, pp. 2927-2939, May 2025.
 
