@@ -2,9 +2,37 @@
 permalink: /Publications/
 ---
 
-**Journal Papers**
+**Journal Papers** *Corresponding Author
 
-[J14] B. Xiao, H. Wong, D. Wu and K. L. Yeung, “Design of Small Multiband Full-Screen Smartwatch Antenna for IoT Applications,” *IEEE Internet of Things Journal*, vol. 8, no. 24, pp. 17724-17733, 15 Dec.15, 2021.
+[J27] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893. 
+
+[J26] X. Chen, L. Guo, **Di Wu** and Y. -X. Sun, "Bidirectional Shared Aperture Large Frequency Ratio Antenna Array Based on Continuous Metallic Grid," *IEEE Antennas and Wireless Propagation Letters*, doi: 10.1109/LAWP.2025.3568874.
+
+[J25] M. Li, Y. He, C. Zhou, Y. Zhang and **Di Wu**, "Design of Decoupling and Pattern Shaping Surface for MIMO Antennas Using the Multiport Optimization Method," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 5, pp. 2927-2939, May 2025.
+
+[J24] X. Zhao, R. Lian, **Di Wu**, M. Qin and J. Zhang, "A High-Gain Fabry–Perot Resonator Antenna With Dual-Sense Circular Polarization Diversity," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 12, pp. 4029-4033, Dec. 2024
+
+[J23] **Di Wu**, J. Liang, and L. Ge, “A wideband dual-circularly polarized series-fed corner-truncated patch array using coplanar proximity coupling,” *IEEE Transactions on Antennas and Propagation*, vol. 72, no. 4, pp. 3292-3301, April 2024.
+
+[J22] J. Han, R. Lian, **Di Wu**, M. Qin and J. Zhang, "Design of a Wideband Tripolarized Antenna With High Isolation and Diverse Patterns," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 1, pp. 114-118, Jan. 2024
+
+[J21] Y. Shang, J. Sun, C. Zhou, H. Li, **Di Wu** and Q. Zeng, "A Broadband Circularly Polarized Magneto-Electric Dipole Antenna," *IEEE Antennas and Wireless Propagation Letters*, vol. 22, no. 8, pp. 1982-1986, Aug. 2023.
+
+[J20] **Di Wu**, Y. X. Sun, R. Lian, B. Xiao, M. Li, and K. D. Xu, “Metasurface antenna with co-circularly polarized radiation characteristics for wideband monostatic simultaneous transmit and receive applications,” *IEEE Transactions on Antennas and Propagation*, vol. 71, no. 4, pp. 3304-3313, April 2023.
+
+[J19] Y. -X. Sun, **Di Wu**, X. S. Fang and J. Ren, "On-Glass Grid Structure and Its Application in Highly-Transparent Antenna for Internet of Vehicles," *IEEE Transactions on Vehicular Technology*, vol. 72, no. 1, pp. 93-101, Jan. 2023.
+
+[J18] Min Li, Yujie Zhang, Fan Jiang, ** Di Wu* **, Kwan Lawrence Yeung, Lijun Jiang, "Improvement for MIMO Systems by Increasing Antenna Isolation and Shaping Radiation Pattern Using Hybrid Network," *IEEE Transactions on Industrial Electronics*, vol. 69, no. 12, pp. 13891-13901, Dec. 2022.
+
+[J17] Min Li, Yujie Zhang, **Di Wu***, Kwan Lawrence Yeung, Lijun Jiang, and Ross Murch, “Decoupling and matching network for dual-band MIMO antennas,” *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 3, pp. 1764-1775, March 2022.
+
+[J16] Min Li, Bing Xiao, Changfei Zhou, **Di Wu**, Kwan Lawrence Yeung, Lijun Jiang, "Novel CMA Scheme to Design Self-Decoupled MIMO Dipole Pair for Base-Station Applications," *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 4, pp. 2480-2489, April 2022.
+
+[J15] **Di Wu**, R. Lian, B. Xiao, B. Wang, M. Li, Y. J. Wu, and Kwan L. Yeung, “Wideband monostatic co-horizontally polarized simultaneous transmit and receive antenna subsystem with integrated beamforming network,” *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 2, pp. 1505-1510, Feb. 2022.
+
+[J14] Yu-Xiang Sun, **Di Wu**, and Jian Ren, "Millimeter-Wave Dual-Polarized Dielectric Resonator Reflectarray Fabricated by 3D Printing With High Relative Permittivity Material," *IEEE Access*, vol. 9, pp. 103795-103803, 2021
+
+[J14] Bing Xiao, Hang Wong, **Di Wu**, and Kwan Lawrence Yeung, “Design of Small Multiband Full-Screen Smartwatch Antenna for IoT Applications,” *IEEE Internet of Things Journal*, vol. 8, no. 24, pp. 17724-17733, 15 Dec.15, 2021.
 
 [J13] Min Li, **Di Wu**, Bing Xiao, Kwan Lawrence Yeung, and Lijun Jiang, “A Novel Calculation Method to Design Parasitic Decoupling Technique for Two Antennas,” *IEEE Access*, vol. 8, pp. 116041-116051, 2020. 
 
