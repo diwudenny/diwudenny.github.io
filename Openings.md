@@ -1,5 +1,5 @@
 ---
-permalink: /Openings/
+permalink: /Members/
 ---
 
 
