@@ -4,21 +4,23 @@ permalink: /Publications/
 
 **Journal Papers** (<sup>#</sup>: Corresponding Author)
 
-[J27] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893, 2025.
+[J28] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893, 2025.
 
-[J26] X. Chen, L. Guo, **Di Wu** and Y. -X. Sun, "Bidirectional Shared Aperture Large Frequency Ratio Antenna Array Based on Continuous Metallic Grid," *IEEE Antennas and Wireless Propagation Letters*, doi: 10.1109/LAWP.2025.3568874, 2025.
+[J27] X. Chen, L. Guo, **Di Wu** and Y. -X. Sun, "Bidirectional Shared Aperture Large Frequency Ratio Antenna Array Based on Continuous Metallic Grid," *IEEE Antennas and Wireless Propagation Letters*, doi: 10.1109/LAWP.2025.3568874, 2025.
 
-[J25] M. Li, Y. He, C. Zhou, Y. Zhang and **Di Wu**, "Design of Decoupling and Pattern Shaping Surface for MIMO Antennas Using the Multiport Optimization Method," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 5, pp. 2927-2939, May 2025.
+[J26] M. Li, Y. He, C. Zhou, Y. Zhang and **Di Wu**, "Design of Decoupling and Pattern Shaping Surface for MIMO Antennas Using the Multiport Optimization Method," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 5, pp. 2927-2939, May 2025.
 
-[J24] X. Zhao, R. Lian, **Di Wu**, M. Qin and J. Zhang, "A High-Gain Fabry–Perot Resonator Antenna With Dual-Sense Circular Polarization Diversity," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 12, pp. 4029-4033, Dec. 2024
+[J25] X. Zhao, R. Lian, **Di Wu**, M. Qin and J. Zhang, "A High-Gain Fabry–Perot Resonator Antenna With Dual-Sense Circular Polarization Diversity," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 12, pp. 4029-4033, Dec. 2024
 
-[J23] **Di Wu**, J. Liang, and L. Ge, “A wideband dual-circularly polarized series-fed corner-truncated patch array using coplanar proximity coupling,” *IEEE Transactions on Antennas and Propagation*, vol. 72, no. 4, pp. 3292-3301, April 2024.
+[J24] **Di Wu**, J. Liang, and L. Ge, “A wideband dual-circularly polarized series-fed corner-truncated patch array using coplanar proximity coupling,” *IEEE Transactions on Antennas and Propagation*, vol. 72, no. 4, pp. 3292-3301, April 2024.
 
-[J22] J. Han, R. Lian, **Di Wu**, M. Qin and J. Zhang, "Design of a Wideband Tripolarized Antenna With High Isolation and Diverse Patterns," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 1, pp. 114-118, Jan. 2024
+[J23] J. Han, R. Lian, **Di Wu**, M. Qin and J. Zhang, "Design of a Wideband Tripolarized Antenna With High Isolation and Diverse Patterns," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 1, pp. 114-118, Jan. 2024
 
-[J21] Y. Shang, J. Sun, C. Zhou, H. Li, **Di Wu** and Q. Zeng, "A Broadband Circularly Polarized Magneto-Electric Dipole Antenna," *IEEE Antennas and Wireless Propagation Letters*, vol. 22, no. 8, pp. 1982-1986, Aug. 2023.
+[J22] Y. Shang, J. Sun, C. Zhou, H. Li, **Di Wu** and Q. Zeng, "A Broadband Circularly Polarized Magneto-Electric Dipole Antenna," *IEEE Antennas and Wireless Propagation Letters*, vol. 22, no. 8, pp. 1982-1986, Aug. 2023.
 
-[J20] **Di Wu**, Y. X. Sun, R. Lian, B. Xiao, M. Li, and K. D. Xu, “Metasurface antenna with co-circularly polarized radiation characteristics for wideband monostatic simultaneous transmit and receive applications,” *IEEE Transactions on Antennas and Propagation*, vol. 71, no. 4, pp. 3304-3313, April 2023.
+[J21] **Di Wu**, Y. X. Sun, R. Lian, B. Xiao, M. Li, and K. D. Xu, “Metasurface antenna with co-circularly polarized radiation characteristics for wideband monostatic simultaneous transmit and receive applications,” *IEEE Transactions on Antennas and Propagation*, vol. 71, no. 4, pp. 3304-3313, April 2023.
+
+[J20] L. Ge, Y. Z. Liang, and **Di Wu**, "A wideband tri‐polarized water antenna," *Electronics Letters*, vol. 59, no. 14, e12871, 2023.
 
 [J19] Y. -X. Sun, **Di Wu**, X. S. Fang and J. Ren, "On-Glass Grid Structure and Its Application in Highly-Transparent Antenna for Internet of Vehicles," *IEEE Transactions on Vehicular Technology*, vol. 72, no. 1, pp. 93-101, Jan. 2023.
 
