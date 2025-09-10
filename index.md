@@ -9,9 +9,7 @@ permalink: /
 **Associate Professor**<br />   
 **Shenzhen University**<br />  
 
-**Tel**: +86-13823579832<br /> 
-
-**Email**: diwu@szu.edu.cn, diwu@eee.hku.hk<br /> 
+**Email**: diwu@szu.edu.cn<br /> 
    
 **Office**: Room 1013, 10th Floor, Ziteng Building, Canghai Campus, Shenzhen University, Shenzhen, 518060, China<br />     
 <br /> 
