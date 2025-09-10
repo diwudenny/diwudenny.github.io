@@ -22,7 +22,7 @@ permalink: /Publications/
 
 [J19] Y. -X. Sun, **Di Wu**, X. S. Fang and J. Ren, "On-Glass Grid Structure and Its Application in Highly-Transparent Antenna for Internet of Vehicles," *IEEE Transactions on Vehicular Technology*, vol. 72, no. 1, pp. 93-101, Jan. 2023.
 
-[J18] Min Li, Yujie Zhang, Fan Jiang, **Di Wu#**, Kwan Lawrence Yeung, Lijun Jiang, "Improvement for MIMO Systems by Increasing Antenna Isolation and Shaping Radiation Pattern Using Hybrid Network," *IEEE Transactions on Industrial Electronics*, vol. 69, no. 12, pp. 13891-13901, Dec. 2022.
+[J18] Min Li, Yujie Zhang, Fan Jiang, **Di Wu<sup>superscript</sup>#**, Kwan Lawrence Yeung, Lijun Jiang, "Improvement for MIMO Systems by Increasing Antenna Isolation and Shaping Radiation Pattern Using Hybrid Network," *IEEE Transactions on Industrial Electronics*, vol. 69, no. 12, pp. 13891-13901, Dec. 2022.
 
 [J17] Min Li, Yujie Zhang, **Di Wu#**, Kwan Lawrence Yeung, Lijun Jiang, and Ross Murch, “Decoupling and matching network for dual-band MIMO antennas,” *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 3, pp. 1764-1775, March 2022.
 
