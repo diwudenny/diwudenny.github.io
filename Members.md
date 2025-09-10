@@ -8,7 +8,7 @@ Graduated Postgraduate Students:
    
 2. Liang Junze (梁俊泽), Class of 2021, employed by Realme （真我，深圳）
    
-3. Zhang Zheng (章铮), Class of 2021), employed by XKL （新凯来，深圳）
+3. Zhang Zheng (章铮), Class of 2021, employed by XKL （新凯来，深圳）
    
 4. Zhang Xiaochong (张晓冲), Class of 2022,  employed by Xiaomi （小米，北京）
    
