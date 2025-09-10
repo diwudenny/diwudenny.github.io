@@ -2,7 +2,7 @@
 permalink: /Publications/
 ---
 
-**Journal Papers** #Corresponding Author
+**Journal Papers** (<sup>#</sup>: Corresponding Author)
 
 [J27] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893, 2025.
 
