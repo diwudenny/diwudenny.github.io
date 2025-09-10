@@ -56,7 +56,7 @@ permalink: /Publications/
 
 [J4] **Di Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Decoupling using diamond-shaped patterned ground resonator for small MIMO antennas,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 177-183, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-MAP-Decoupling%20-Di%20Wu.pdf)
 
-[J3] **Di Wu**, S. W. Cheung, and T. I. Yuk, “Compact 3D-Loop Antenna with Bandwidth Enhancement for WWAN/LTE Mobile-Phones Applications,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 240-246, 2017. [Download PDF ](https://github.com/diwudenny/diwudenny.github.io/blob/cce57df263c80160773b413a7ba89023265715cf/papers/2017-MAP-Wideband%20Loop%20antnna.pdf)
+[J3] **Di Wu**, S. W. Cheung, and T. I. Yuk, “Compact 3D-Loop Antenna with Bandwidth Enhancement for WWAN/LTE Mobile-Phones Applications,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 240-246, 2017. [Download PDF ](https://github.com/diwudenny/diwudenny.github.io/blob/master/papers/2017-MAP-Wideband%20Loop%20antnna.pdf)
 
 [J2] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Optically transparent dualband MIMO antenna using micro-metal mesh conductive film for WLAN system,” *IEEE Antennas and Wireless Propagation Letters*, vol. 16, pp. 920-923, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-AWPL-Transparent%20MIMO%20Antenna.pdf)
 
