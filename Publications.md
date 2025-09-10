@@ -79,7 +79,7 @@ permalink: /Publications/
 
 [C10] Min Li, S. W. Cheung, Changfei Zhou, Qinlong Li, **Di Wu**, “A Compact Monopole Antenna for Smartphones,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
-[C9] **Di. Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Slot antenna for all-metal smartwatch applications,” *2016 10th European Conference on Antennas and Propagation (EuCAP)*, Davos, Switzerland, April 2016.
+[C9] **Di Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Slot antenna for all-metal smartwatch applications,” *2016 10th European Conference on Antennas and Propagation (EuCAP)*, Davos, Switzerland, April 2016.
 
 [C8] S. W. Cheung, Q. L. Li, **Di Wu** and T. I. Yuk, “Microwave lens using multi-layer substrates for antenna gain enhancement,” *2016 10th European Conference on Antennas and Propagation (EuCAP)*, Davos, Switzerland, April 2016.
 
