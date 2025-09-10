@@ -20,7 +20,7 @@ permalink: /Publications/
 
 [J21] **Di Wu**, Y. X. Sun, R. Lian, B. Xiao, M. Li, and K. D. Xu, “Metasurface antenna with co-circularly polarized radiation characteristics for wideband monostatic simultaneous transmit and receive applications,” *IEEE Transactions on Antennas and Propagation*, vol. 71, no. 4, pp. 3304-3313, April 2023.
 
-[J20] L. Ge, Y. Z. Liang, and **Di Wu**, "A wideband tri‐polarized water antenna," *Electronics Letters*, vol. 59, no. 14, e12871, 2023.
+[J20] L. Ge, Y. Z. Liang, and **Di Wu<sup>#</sup>**, "A wideband tri‐polarized water antenna," *Electronics Letters*, vol. 59, no. 14, e12871, 2023.
 
 [J19] Y. -X. Sun, **Di Wu**, X. S. Fang and J. Ren, "On-Glass Grid Structure and Its Application in Highly-Transparent Antenna for Internet of Vehicles," *IEEE Transactions on Vehicular Technology*, vol. 72, no. 1, pp. 93-101, Jan. 2023.
 
