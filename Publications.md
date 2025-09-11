@@ -127,7 +127,11 @@ permalink: /Publications/
 [C1] L. Liu, S. W. Cheung, T. I. Yuk and **Di Wu**, “A compact ultrawideband MIMO antenna,” *2013 7th European Conference on Antennas and Propagation (EuCAP)*, Gothenburg, Sweden, 2013.
 
 
+
+***
+
 **Patents**
+
 [1]	吴迪，基于集成波束成形网络的宽带单站共水平极化全双工天线，中国发明专利，授权日期：2022年3月15日，授权公告号：CN 113708070 B.
 
 [2]	吴迪，基于超表面的宽带单站共圆极化同时收发天线，中国发明专利，授权日期：2022年5月10日，授权公告号：CN 113745827 B.
