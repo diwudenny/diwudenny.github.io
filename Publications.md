@@ -67,6 +67,33 @@ permalink: /Publications/
 
 **Conference Papers**
 
+
+[C29] Y. Li, Y. Liu and **Di Wu<sup>#</sup>**, "Dual-Wideband Circularly Polarized Antenna Array with Stacked Magneto-Electric Dipoles for Millimeter-Wave Applications," *2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP)*, Nanjing, China, 2024, pp. 1-2, doi: 10.1109/APCAP62011.2024.10881697.
+
+[C28] Y. Liu, Y. Li and **Di Wu<sup>#</sup>**, "Suppressing Zenith Directional Radiation Using Collinear Array for STAR Antennas," *2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP)*, Nanjing, China, 2024, pp. 1-2, doi: 10.1109/APCAP62011.2024.10881653.
+
+[C27] **Di Wu**, Y. Li, Y. -X. Sun, R. Lian, B. Xiao and M. Li, "A Wideband Monostatic Co-Circularly Polarized Simultaneous Transmit and Receive Antenna Using Metasurface," *2024 15th Global Symposium on Millimeter-Waves & Terahertz (GSMM)*, Hong Kong, 2024, pp. 67-69, doi: 10.1109/GSMM61775.2024.10553146.
+
+[C26] M. Li and **Di Wu**, "Millimeter-Wave Fabry-Pérot Antenna Featuring Frequency Reconfigurable Capability," *2024 15th Global Symposium on Millimeter-Waves & Terahertz (GSMM)*, Hong Kong, 2024, pp. 1-3, doi: 10.1109/GSMM61775.2024.10553071.
+
+[C25] Y. Cai, Z. Zhang, Y. -X. Sun and **Di Wu<sup>#</sup>**, "An ESPAR Antenna with Omnidirectional and Steerable Patterns for V2X Applications," *2023 International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Qingdao, China, 2023, pp. 1-3, doi: 10.1109/ICMMT58241.2023.10277563.
+
+[C24] J. Liang, Y. Cai, Z. Zhang and **Di Wu<sup>#</sup>**, "A Wideband Series-Fed Grid-Slotted Patch Antenna with Differential Feeding," *2023 International Applied Computational Electromagnetics Society Symposium (ACES-China)*, Hangzhou, China, 2023, pp. 1-3, doi: 10.23919/ACES-China60289.2023.10249852.
+
+[C23] **Di Wu** and Y. -X. Sun, "A Compact Multiband FICA Antenna with Coupled-Fed Mechanism for Smartphone Applications," *2022 Asia-Pacific Microwave Conference (APMC)*, Yokohama, Japan, 2022, pp. 895-897, doi: 10.23919/APMC55665.2022.9999828.
+
+[C22] Z. Zhang, Y. Cai, **Di Wu<sup>#</sup>** and Y. -X. Sun, "A Wideband High-Isolation Omnidirectional Antenna for In-Band Full Duplex Application," *2022 IEEE Conference on Antenna Measurements and Applications (CAMA)*, Guangzhou, China, 2022, pp. 1-3, doi: 10.1109/CAMA56352.2022.10002602.
+
+[C21] **Di Wu**; Ruina Lian; Bing Xiao; Bo Wang; Min Li; Yujiang Wu, "Wideband Co-Polarized Antenna System for in-Band Full-Duplex Applications," *2022 16th European Conference on Antennas and Propagation (EuCAP)*, Madrid, Spain, 2022, pp. 1-4, doi: 10.23919/EuCAP53622.2022.9768962.
+
+[C20] **Di Wu**, Y. -X. Sun, B. Wang and R. Lian, "A High Isolation Circularly Polarized Antenna for Full-Duplex Applications," *2021 Cross Strait Radio Science and Wireless Technology Conference (CSRSWTC)*, Shenzhen, China, 2021, pp. 360-361, doi: 10.1109/CSRSWTC52801.2021.9631607.
+
+[C19] Y. -X. Sun and **Di Wu**, "Millimeter-Wave Substrate-Integrated Dielectric Resonator Antennas," *2021 Cross Strait Radio Science and Wireless Technology Conference (CSRSWTC)*, Shenzhen, China, 2021, pp. 369-371, doi: 10.1109/CSRSWTC52801.2021.9631614.
+
+[C18] Y. -X. Sun and **Di Wu**, "QMSIW Cavities for Compact Dual-Frequency Millimeter-Wave 5G Antenna Array Design," *2021 International Symposium on Antennas and Propagation (ISAP)*, Taipei, Taiwan, 2021, pp. 1-2, doi: 10.23919/ISAP47258.2021.9614558.
+
+[C17] Y. X. Sun and **Di Wu**, "Millimeter-Wave Linearly-Polarized Dielectric Reflectarray Using 3D Printing," *2020 International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, pp. 1-3, 2020.
+
 [C16] S. W. Cheung, **Di Wu**, Chang Fei Zhou, and Min Li, “Using USB Connector to Generate 5th-Resonant Mode in Loop Antenna,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
 
 [C15] Xiaoxue Hua, **Di Wu**, S. W. Cheung, Qinlong Li, “A Planar 8-Port MIMO Antenna for 2.4-GHz WLAN Applications,” *2017 IEEE International Symposium on Antennas and Propagation (APSURSI)*, San Diego, California, July 9-14, 2017.
