@@ -90,7 +90,7 @@ permalink: /Publications/
 
 [C19] Y. -X. Sun and **Di Wu**, "Millimeter-Wave Substrate-Integrated Dielectric Resonator Antennas," *2021 Cross Strait Radio Science and Wireless Technology Conference (CSRSWTC)*, Shenzhen, China, pp. 369-371, 2021.
 
-[C18] Y. -X. Sun and **Di Wu**, "QMSIW Cavities for Compact Dual-Frequency Millimeter-Wave 5G Antenna Array Design," *2021 International Symposium on Antennas and Propagation (ISAP)*, Taipei, Taiwan, pp. 1-2, 2021.
+[C18] Y. -X. Sun and **Di Wu**, "QMSIW Cavities for Compact Dual-Frequency Millimeter-Wave 5G Antenna Array Design," *2021 International Symposium on Antennas and Propagation (ISAP)*, Taipei, pp. 1-2, 2021.
 
 [C17] Y. X. Sun and **Di Wu**, "Millimeter-Wave Linearly-Polarized Dielectric Reflectarray Using 3D Printing," *2020 International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, pp. 1-3, 2020.
 
