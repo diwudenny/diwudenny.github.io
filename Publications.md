@@ -3,6 +3,7 @@ permalink: /Publications/
 ---
 
 **Journal Papers** (<sup>#</sup>: Corresponding Author)
+
 [J29] Yaxin Li, Yaqi Liu, **Di Wu<sup>#</sup>**, "A Wideband Co-Circularly Polarized Simultaneous Transmit and Receive Antenna System for Millimeter-Wave Applications," *IEEE Transactions on Antennas and Propagation*, 2025.
 
 [J28] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893, 2025.
