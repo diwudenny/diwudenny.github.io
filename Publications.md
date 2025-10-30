@@ -4,7 +4,7 @@ permalink: /Publications/
 
 **Journal Papers** (<sup>#</sup>: Corresponding Author)
 
-[J29] Yaxin Li, Yaqi Liu, and **Di Wu<sup>#</sup>**, "A Wideband Co-Circularly Polarized Simultaneous Transmit and Receive Antenna System for Millimeter-Wave Applications," *IEEE Transactions on Antennas and Propagation*, 2025.(Early Access)
+[J29] Yaxin Li, Yaqi Liu, and **Di Wu<sup>#</sup>**, "A Wideband Co-Circularly Polarized Simultaneous Transmit and Receive Antenna System for Millimeter-Wave Applications," *IEEE Transactions on Antennas and Propagation*, 2025. (Early Access)
 
 [J28] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian, and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 10, pp. 8319-8324, Oct. 2025.
 
@@ -69,7 +69,7 @@ permalink: /Publications/
 
 **Conference Papers**
 
-[C30] **Di Wu<sup>#</sup>**, J. Liang, and L. Ge, "A Planar Wideband Dual-Circularly Polarized Antenna Design," 2025 IEEE MTT-S International Wireless Symposium (IWS), Xi'an, China, pp. 1-3, 2025.
+[C30] **Di Wu<sup>#</sup>**, J. Liang, and L. Ge, "A Planar Wideband Dual-Circularly Polarized Antenna Design," *2025 IEEE MTT-S International Wireless Symposium (IWS)*, Xi'an, China, pp. 1-3, 2025.
 
 [C29] Y. Li, Y. Liu, and **Di Wu<sup>#</sup>**, "Dual-Wideband Circularly Polarized Antenna Array with Stacked Magneto-Electric Dipoles for Millimeter-Wave Applications," *2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP)*, Nanjing, China, pp. 1-2, 2024.
 
