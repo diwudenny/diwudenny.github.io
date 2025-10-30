@@ -4,33 +4,33 @@ permalink: /Publications/
 
 **Journal Papers** (<sup>#</sup>: Corresponding Author)
 
-[J29] Yaxin Li, Yaqi Liu, **Di Wu<sup>#</sup>**, "A Wideband Co-Circularly Polarized Simultaneous Transmit and Receive Antenna System for Millimeter-Wave Applications," *IEEE Transactions on Antennas and Propagation*, 2025.
+[J29] Yaxin Li, Yaqi Liu, and **Di Wu<sup>#</sup>**, "A Wideband Co-Circularly Polarized Simultaneous Transmit and Receive Antenna System for Millimeter-Wave Applications," *IEEE Transactions on Antennas and Propagation*, 2025.(Early Access)
 
-[J28] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, doi: 10.1109/TAP.2025.3587893, 2025.
+[J28] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian, and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 10, pp. 8319-8324, Oct. 2025.
 
-[J27] X. Chen, L. Guo, **Di Wu** and Y. -X. Sun, "Bidirectional Shared Aperture Large Frequency Ratio Antenna Array Based on Continuous Metallic Grid," *IEEE Antennas and Wireless Propagation Letters*, doi: 10.1109/LAWP.2025.3568874, 2025.
+[J27] X. Chen, L. Guo, **Di Wu**, and Y. -X. Sun, "Bidirectional Shared Aperture Large Frequency Ratio Antenna Array Based on Continuous Metallic Grid," *IEEE Antennas and Wireless Propagation Letters*, doi: 10.1109/LAWP.2025.3568874, 2025.
 
-[J26] M. Li, Y. He, C. Zhou, Y. Zhang and **Di Wu**, "Design of Decoupling and Pattern Shaping Surface for MIMO Antennas Using the Multiport Optimization Method," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 5, pp. 2927-2939, May 2025.
+[J26] M. Li, Y. He, C. Zhou, Y. Zhang, and **Di Wu**, "Design of Decoupling and Pattern Shaping Surface for MIMO Antennas Using the Multiport Optimization Method," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 5, pp. 2927-2939, May 2025.
 
-[J25] X. Zhao, R. Lian, **Di Wu**, M. Qin and J. Zhang, "A High-Gain Fabry–Perot Resonator Antenna With Dual-Sense Circular Polarization Diversity," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 12, pp. 4029-4033, Dec. 2024
+[J25] X. Zhao, R. Lian, **Di Wu**, M. Qin, and J. Zhang, "A High-Gain Fabry–Perot Resonator Antenna With Dual-Sense Circular Polarization Diversity," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 12, pp. 4029-4033, Dec. 2024
 
 [J24] **Di Wu**, J. Liang, and L. Ge, “A wideband dual-circularly polarized series-fed corner-truncated patch array using coplanar proximity coupling,” *IEEE Transactions on Antennas and Propagation*, vol. 72, no. 4, pp. 3292-3301, April 2024.
 
-[J23] J. Han, R. Lian, **Di Wu**, M. Qin and J. Zhang, "Design of a Wideband Tripolarized Antenna With High Isolation and Diverse Patterns," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 1, pp. 114-118, Jan. 2024
+[J23] J. Han, R. Lian, **Di Wu**, M. Qin, and J. Zhang, "Design of a Wideband Tripolarized Antenna With High Isolation and Diverse Patterns," *IEEE Antennas and Wireless Propagation Letters*, vol. 23, no. 1, pp. 114-118, Jan. 2024
 
-[J22] Y. Shang, J. Sun, C. Zhou, H. Li, **Di Wu** and Q. Zeng, "A Broadband Circularly Polarized Magneto-Electric Dipole Antenna," *IEEE Antennas and Wireless Propagation Letters*, vol. 22, no. 8, pp. 1982-1986, Aug. 2023.
+[J22] Y. Shang, J. Sun, C. Zhou, H. Li, **Di Wu**, and Q. Zeng, "A Broadband Circularly Polarized Magneto-Electric Dipole Antenna," *IEEE Antennas and Wireless Propagation Letters*, vol. 22, no. 8, pp. 1982-1986, Aug. 2023.
 
 [J21] **Di Wu**, Y. X. Sun, R. Lian, B. Xiao, M. Li, and K. D. Xu, “Metasurface antenna with co-circularly polarized radiation characteristics for wideband monostatic simultaneous transmit and receive applications,” *IEEE Transactions on Antennas and Propagation*, vol. 71, no. 4, pp. 3304-3313, April 2023.
 
 [J20] L. Ge, Y. Z. Liang, and **Di Wu<sup>#</sup>**, "A wideband tri‐polarized water antenna," *Electronics Letters*, vol. 59, no. 14, e12871, 2023.
 
-[J19] Y. -X. Sun, **Di Wu**, X. S. Fang and J. Ren, "On-Glass Grid Structure and Its Application in Highly-Transparent Antenna for Internet of Vehicles," *IEEE Transactions on Vehicular Technology*, vol. 72, no. 1, pp. 93-101, Jan. 2023.
+[J19] Y. -X. Sun, **Di Wu**, X. S. Fang, and J. Ren, "On-Glass Grid Structure and Its Application in Highly-Transparent Antenna for Internet of Vehicles," *IEEE Transactions on Vehicular Technology*, vol. 72, no. 1, pp. 93-101, Jan. 2023.
 
-[J18] Min Li, Yujie Zhang, Fan Jiang, **Di Wu<sup>#</sup>**, Kwan Lawrence Yeung, Lijun Jiang, "Improvement for MIMO Systems by Increasing Antenna Isolation and Shaping Radiation Pattern Using Hybrid Network," *IEEE Transactions on Industrial Electronics*, vol. 69, no. 12, pp. 13891-13901, Dec. 2022.
+[J18] Min Li, Yujie Zhang, Fan Jiang, **Di Wu<sup>#</sup>**, Kwan Lawrence Yeung, and Lijun Jiang, "Improvement for MIMO Systems by Increasing Antenna Isolation and Shaping Radiation Pattern Using Hybrid Network," *IEEE Transactions on Industrial Electronics*, vol. 69, no. 12, pp. 13891-13901, Dec. 2022.
 
 [J17] Min Li, Yujie Zhang, **Di Wu<sup>#</sup>**, Kwan Lawrence Yeung, Lijun Jiang, and Ross Murch, “Decoupling and matching network for dual-band MIMO antennas,” *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 3, pp. 1764-1775, March 2022.
 
-[J16] Min Li, Bing Xiao, Changfei Zhou, **Di Wu**, Kwan Lawrence Yeung, Lijun Jiang, "Novel CMA Scheme to Design Self-Decoupled MIMO Dipole Pair for Base-Station Applications," *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 4, pp. 2480-2489, April 2022.
+[J16] Min Li, Bing Xiao, Changfei Zhou, **Di Wu**, Kwan Lawrence Yeung, and Lijun Jiang, "Novel CMA Scheme to Design Self-Decoupled MIMO Dipole Pair for Base-Station Applications," *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 4, pp. 2480-2489, April 2022.
 
 [J15] **Di Wu**, R. Lian, B. Xiao, B. Wang, M. Li, Y. J. Wu, and Kwan L. Yeung, “Wideband monostatic co-horizontally polarized simultaneous transmit and receive antenna subsystem with integrated beamforming network,” *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 2, pp. 1505-1510, Feb. 2022.
 
@@ -48,29 +48,30 @@ permalink: /Publications/
 
 [J9] Bo Wang, Hang Wong, **Di Wu**, and Kwan Lawrence Yeung, “Broadside circularly-polarized radiation generated by surface wave diffraction,” *Applied Physics Express*, vol. 12, no. 9, pp., 2019. 
 
-[J8] **Di Wu**, Yuzhang Zang, Hung Luyen, Mingjian Li and Nader Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 4, pp. 611-615, 2019.  [Download PDF ](https://github.com/diwudenny/diwudenny.github.io/raw/master/papers/2019-AWPL%20STAR-DIWU.pdf)
+[J8] **Di Wu**, Yuzhang Zang, Hung Luyen, Mingjian Li, and Nader Behdad, “A compact, low-profile simultaneous transmit and receive (STAR) antenna with monopole-like radiation characteristics,” *IEEE Antennas and Wireless Propagation Letters*, vol. 18, no. 4, pp. 611-615, 2019.  [Download PDF ](https://github.com/diwudenny/diwudenny.github.io/raw/master/papers/2019-AWPL%20STAR-DIWU.pdf)
 
-[J7] **Di Wu**, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li and Bing Xiao, "A Compact Slot MIMO Antenna for Smartphones with Metal Housing, " *Journal of Electromagnetic Waves and Applications*, vol. 32, no. 2, pp. 204-214, 2018. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2018-JEWA-Slot%20MIMO-Di%20WU.pdf)
+[J7] **Di Wu**, Xiaoxue Hua, S. W. Cheung, Bo Wang, Min Li, and Bing Xiao, "A Compact Slot MIMO Antenna for Smartphones with Metal Housing, " *Journal of Electromagnetic Waves and Applications*, vol. 32, no. 2, pp. 204-214, 2018. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2018-JEWA-Slot%20MIMO-Di%20WU.pdf)
 
-[J6] **Di Wu**, and S. W. Cheung, “A Cavity-Backed Annular Slot Antenna with High Efficiency for Smartwatches with Metallic Housing,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 7, pp. 3756-3761, July 2017.[Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-TAP-Smartwatch%20Antenna-Di%20WU.pdf)
+[J6] **Di Wu** and S. W. Cheung, “A Cavity-Backed Annular Slot Antenna with High Efficiency for Smartwatches with Metallic Housing,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 7, pp. 3756-3761, July 2017.[Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-TAP-Smartwatch%20Antenna-Di%20WU.pdf)
 
 [J5] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Microwave Lens Using Periodic Dielectric-Sheets for Antenna-Gain Enhancement,” *IEEE Transactions on Antennas and Propagation*, vol. 65, no. 4, pp. 2068-2073, April 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-TAP-Lens%20Antenna.pdf)
 
-[J4] **Di Wu**, S. W. Cheung, Q. L. Li and T. I. Yuk, “Decoupling using diamond-shaped patterned ground resonator for small MIMO antennas,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 177-183, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-MAP-Decoupling%20-Di%20Wu.pdf)
+[J4] **Di Wu**, S. W. Cheung, Q. L. Li, and T. I. Yuk, “Decoupling using diamond-shaped patterned ground resonator for small MIMO antennas,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 177-183, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-MAP-Decoupling%20-Di%20Wu.pdf)
 
 [J3] **Di Wu**, S. W. Cheung, and T. I. Yuk, “Compact 3D-Loop Antenna with Bandwidth Enhancement for WWAN/LTE Mobile-Phones Applications,” *IET Microwaves, Antennas & Propagation*, vol. 11, no. 2, pp. 240-246, 2017. [Download PDF ](https://github.com/diwudenny/diwudenny.github.io/blob/master/papers/2017-MAP-Wideband%20Loop%20antnna.pdf)
 
 [J2] Q. L. Li, S. W. Cheung, **Di Wu**, and T. I. Yuk, “Optically transparent dualband MIMO antenna using micro-metal mesh conductive film for WLAN system,” *IEEE Antennas and Wireless Propagation Letters*, vol. 16, pp. 920-923, 2017. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2017-AWPL-Transparent%20MIMO%20Antenna.pdf)
 
-[J1] **Di Wu**, S. W. Cheung and T. I. Yuk, “A Compact and Low-Profile Loop Antenna With Multiband Operation for Ultra-Thin Smartphones,” *IEEE Transactions on Antennas and Propagation*, vol. 63, no. 6, pp. 2745-2750, June 2015. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2015-TAP-Loop%20Antenna.pdf)
+[J1] **Di Wu**, S. W. Cheung, and T. I. Yuk, “A Compact and Low-Profile Loop Antenna With Multiband Operation for Ultra-Thin Smartphones,” *IEEE Transactions on Antennas and Propagation*, vol. 63, no. 6, pp. 2745-2750, June 2015. [Download PDF ](https://github.com/diwuszu/diwuszu.github.io/raw/master/papers/2015-TAP-Loop%20Antenna.pdf)
 
 
 ***
 
 **Conference Papers**
 
+[C30] **Di Wu<sup>#</sup>**, J. Liang, and L. Ge, "A Planar Wideband Dual-Circularly Polarized Antenna Design," 2025 IEEE MTT-S International Wireless Symposium (IWS), Xi'an, China, pp. 1-3, 2025.
 
-[C29] Y. Li, Y. Liu and **Di Wu<sup>#</sup>**, "Dual-Wideband Circularly Polarized Antenna Array with Stacked Magneto-Electric Dipoles for Millimeter-Wave Applications," *2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP)*, Nanjing, China, pp. 1-2, 2024.
+[C29] Y. Li, Y. Liu, and **Di Wu<sup>#</sup>**, "Dual-Wideband Circularly Polarized Antenna Array with Stacked Magneto-Electric Dipoles for Millimeter-Wave Applications," *2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP)*, Nanjing, China, pp. 1-2, 2024.
 
 [C28] Y. Liu, Y. Li and **Di Wu<sup>#</sup>**, "Suppressing Zenith Directional Radiation Using Collinear Array for STAR Antennas," *2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP)*, Nanjing, China, pp. 1-2, 2024.
 
@@ -134,9 +135,15 @@ permalink: /Publications/
 
 **Patents**
 
-[1]	吴迪，基于集成波束成形网络的宽带单站共水平极化全双工天线，中国发明专利，授权日期：2022年3月15日，授权公告号：CN 113708070 B.
+[1]	吴迪，张晓冲，用于金属边框智能终端卫星通信的圆极化天线及智能终端，中国发明专利，授权日期：2025年10月24日，授权公告号：CN 119726064 B.
 
-[2]	吴迪，基于超表面的宽带单站共圆极化同时收发天线，中国发明专利，授权日期：2022年5月10日，授权公告号：CN 113745827 B.
+[2]	吴迪，李亚鑫，刘雅琦，葛磊，基于玻璃基的同频同时全双工毫米波封装天线，中国发明专利，授权日期：2025年10月03日，授权公告号：CN 119171068 B.
 
-[3]	孙宇祥，吴迪，一种低剖面的宽带天线及其制备方法，中国发明专利，授权日期：2022年9月20日，授权公告号：CN 113540781 B.
+[3]	吴迪，蔡伊莎，新型宽带单站共圆极化同频同时全双工天线阵列，中国发明专利，授权日期：2025年09月23日，授权公告号：CN 119695445 B.
+
+[4]	吴迪，基于集成波束成形网络的宽带单站共水平极化全双工天线，中国发明专利，授权日期：2022年3月15日，授权公告号：CN 113708070 B.
+
+[5]	吴迪，基于超表面的宽带单站共圆极化同时收发天线，中国发明专利，授权日期：2022年5月10日，授权公告号：CN 113745827 B.
+
+[6]	孙宇祥，吴迪，一种低剖面的宽带天线及其制备方法，中国发明专利，授权日期：2022年9月20日，授权公告号：CN 113540781 B.
 
