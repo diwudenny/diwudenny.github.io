@@ -4,7 +4,9 @@ permalink: /Publications/
 
 **Journal Papers** (<sup>#</sup>: Corresponding Author)
 
-[J29] Yaxin Li, Yaqi Liu, and **Di Wu<sup>#</sup>**, "A Wideband Co-Circularly Polarized Simultaneous Transmit and Receive Antenna System for Millimeter-Wave Applications," *IEEE Transactions on Antennas and Propagation*, 2025. (Early Access)
+[J30] Z. Weng, X. Zhang, **Di Wu<sup>#</sup>**, and M. Li, "Dual-band high-isolation slot MIMO antenna pair for smartphones with an unbroken metal frame," AEU-International Journal of Electronics and Communications, p. 156578, Sep. 2026.
+
+[J29] Yaxin Li, Yaqi Liu, and **Di Wu<sup>#</sup>**, "A Wideband Co-Circularly Polarized Simultaneous Transmit and Receive Antenna System for Millimeter-Wave Applications," *IEEE Transactions on Antennas and Propagation*, vol. 74, no. 1, 2026.
 
 [J28] **Di Wu**, Z. Zhang, Y. Liu, Y. Li, R. Lian, and M. Li, "An Integrated Simultaneous Transmit and Receive Antenna System with Monopole-Like Radiation Characteristics," *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 10, pp. 8319-8324, Oct. 2025.
 
@@ -68,6 +70,16 @@ permalink: /Publications/
 ***
 
 **Conference Papers**
+
+[C35] Y. Li, Y. Liu, and **Di Wu<sup>#</sup>**, "A Wideband Millimeter-Wave Co-CP STAR Antenna Design with High Isolation," *2026 IEEE MTT-S International Wireless Symposium (IWS)*, 2026.
+
+[C34] Z. Weng and **Di Wu<sup>#</sup>**, "A MIMO Slot Antenna with Lumped Element Decoupling for 5G Metal-Frame Mobile Phones," *2026 IEEE MTT-S International Wireless Symposium (IWS)*, 2026.
+
+[C33] Y. Xu, Y. Li, Y. Liu, Z. Weng, and **Di Wu<sup>#</sup>**, "A K/Ka-Band Shared-Aperture Antenna for Satellite Communication," *2025 Cross Strait Radio Science and Wireless Technology Conference (CSRSWTC)*, 2025.
+
+[C32] Y. Liu, Y. Xu, Z. Weng, and **Di Wu<sup>#</sup>**, "A Compact Co-Circularly Polarized Millimeter-Wave Antenna with Dual C-Shaped Resonators Decoupling for In-Band Full-Duplex Systems," *2025 Cross Strait Radio Science and Wireless Technology Conference (CSRSWTC)*, 2025.
+
+[C31] Z. Weng, Y. Xu, Y. Liu, and **Di Wu<sup>#</sup>**, "Design of a Compact 2×2 MIMO Antenna with High Isolation for 5G Application," 2025 Cross Strait Radio Science and Wireless Technology Conference (CSRSWTC), 2025.
 
 [C30] **Di Wu<sup>#</sup>**, J. Liang, and L. Ge, "A Planar Wideband Dual-Circularly Polarized Antenna Design," *2025 IEEE MTT-S International Wireless Symposium (IWS)*, Xi'an, China, pp. 1-3, 2025.
 
